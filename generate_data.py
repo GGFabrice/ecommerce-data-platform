@@ -82,10 +82,10 @@ def generate_produits():
 
         produits.append({
 
-            "produit_id": i,
-            "produit_name": f"Produit_{i}",
-            "category": random.choice(categories),
-            "price": random.randint(10,3000)
+    "produit_id": i,
+    "nom_produit": f"Produit_{i}",
+    "categorie": random.choice(categories),
+    "prix": random.randint(10,3000)
 
         })
 

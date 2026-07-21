@@ -1,121 +1,47 @@
-import os
+from pathlib import Path
 import shutil
-import logging
 from datetime import datetime
 
+from config.settings import SAMPLE_DIR, RAW_DIR, REPORT_DIR
+from config.logger import logger
+from utils.file_manager import get_csv_files, count_rows
 
-# Configuration du logging
+REPORT_DIR.mkdir(exist_ok=True)
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
-)
+def ingest_files():
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
 
+    csv_files = get_csv_files(SAMPLE_DIR)
 
-# Chemins
+    if not csv_files:
+        logger.warning("Aucun fichier CSV trouvé dans data/sample")
+        print("Aucun fichier CSV trouvé.")
+        return
 
-SOURCE_PATH = "data/sample"
+    report_lines = []
 
-RAW_PATH = "data/raw"
+    for file in csv_files:
+        destination = RAW_DIR / file.name
+        shutil.copy(file, destination)
 
+        rows = count_rows(file)
 
-FILES = [
-    "customers.csv",
-    "products.csv",
-    "orders.csv",
-    "payments.csv"
-]
+        logger.info(f"{file.name} copié vers RAW ({rows} lignes)")
 
+        report_lines.append(f"{file.name} : {rows} lignes")
 
-def create_folder(path):
+        print(f"✔ {file.name} copié ({rows} lignes)")
 
-    """
-    Création d'un dossier s'il n'existe pas
-    """
+    report_file = REPORT_DIR / f"ingestion_report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
 
-    if not os.path.exists(path):
+    with open(report_file, "w", encoding="utf-8") as f:
+        f.write("RAPPORT D'INGESTION\n")
+        f.write("====================\n\n")
+        for line in report_lines:
+            f.write(line + "\n")
 
-        os.makedirs(path)
-
-        logging.info(
-            f"Dossier créé : {path}"
-        )
-
-
-
-def copy_file(file):
-
-    """
-    Copie un fichier vers RAW
-    """
-
-    source = os.path.join(
-        SOURCE_PATH,
-        file
-    )
-
-    destination = os.path.join(
-        RAW_PATH,
-        file
-    )
-
-
-    if os.path.exists(source):
-
-        shutil.copy(
-            source,
-            destination
-        )
-
-        logging.info(
-            f"{file} chargé dans RAW"
-        )
-
-
-    else:
-
-        logging.error(
-            f"Fichier introuvable : {file}"
-        )
-
-
-
-def ingestion_pipeline():
-
-    """
-    Pipeline principal d'ingestion
-    """
-
-    start_time = datetime.now()
-
-
-    logging.info(
-        "Début du pipeline ingestion"
-    )
-
-
-    create_folder(RAW_PATH)
-
-
-
-    for file in FILES:
-
-        copy_file(file)
-
-
-
-    end_time = datetime.now()
-
-
-    duration = end_time - start_time
-
-
-    logging.info(
-        f"Pipeline terminé en {duration}"
-    )
-
-
+    print("\nIngestion terminée avec succès.")
+    print(f"Rapport généré : {report_file.name}")
 
 if __name__ == "__main__":
-
-    ingestion_pipeline()
+    ingest_files()
