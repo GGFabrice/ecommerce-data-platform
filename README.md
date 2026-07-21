@@ -1,21 +1,18 @@
-# E-Commerce Data Platform
+# Ecommerce Data Platform
 
 ## Description
 
-Ce projet met en œuvre une plateforme de Data Engineering permettant de :
+Ecommerce Data Platform est un projet Data Engineering permettant de construire une plateforme de données complète pour collecter, transformer, stocker et analyser les données d'une entreprise e-commerce.
 
-- Ingérer des données e-commerce
-- Construire un Data Lake (RAW, CLEANSED, CURATED)
-- Alimenter un Data Warehouse PostgreSQL
-- Automatiser les traitements ETL
-- Préparer l'intégration avec Apache Spark et Apache Airflow
+L'objectif est de mettre en place une architecture moderne Data Platform basée sur un pipeline ETL.
 
-## Technologies
+## Objectifs du projet
 
-- Python
-- Pandas
-- PostgreSQL
-- SQLAlchemy
-- Docker (à venir)
-- Apache Spark (à venir)
-- Apache Airflow (à venir)
+- Collecter les données clients, produits, commandes et paiements
+- Stocker les données brutes dans un Data Lake
+- Nettoyer et transformer les données
+- Charger les données dans un Data Warehouse
+- Automatiser les pipelines
+- Produire des indicateurs business
+
+## Architecture

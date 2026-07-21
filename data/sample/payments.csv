@@ -1,0 +1,5 @@
+payment_id,order_id,amount,payment_method
+9001,5001,1600,Mobile Money
+9002,5002,500,Credit Card
+9003,5003,360,PayPal
+9004,5004,300,Mobile Money
