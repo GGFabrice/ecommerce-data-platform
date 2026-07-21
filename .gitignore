@@ -1,0 +1,29 @@
+# Environnement virtuel
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Variables d'environnement
+.env
+
+# Données
+data/raw/*
+data/cleansed/*
+data/curated/*
+
+# Conserver les dossiers vides
+!data/raw/.gitkeep
+!data/cleansed/.gitkeep
+!data/curated/.gitkeep
+!data/sample/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
