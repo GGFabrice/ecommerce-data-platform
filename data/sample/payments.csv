@@ -1,5 +1,2001 @@
 payment_id,order_id,amount,payment_method
-9001,5001,1600,Mobile Money
-9002,5002,500,Credit Card
-9003,5003,360,PayPal
-9004,5004,300,Mobile Money
+1,1,1490,Mobile Money
+2,2,2372,Mobile Money
+3,3,8133,Mobile Money
+4,4,6110,Bank Transfer
+5,5,1297,PayPal
+6,6,5974,Credit Card
+7,7,8210,Bank Transfer
+8,8,5335,Bank Transfer
+9,9,136,Bank Transfer
+10,10,6638,Bank Transfer
+11,11,5094,Bank Transfer
+12,12,5277,Bank Transfer
+13,13,5684,PayPal
+14,14,1484,Credit Card
+15,15,6597,PayPal
+16,16,1362,Mobile Money
+17,17,286,PayPal
+18,18,1446,PayPal
+19,19,3276,PayPal
+20,20,7842,Credit Card
+21,21,3632,Credit Card
+22,22,9994,Mobile Money
+23,23,1174,Mobile Money
+24,24,4527,Credit Card
+25,25,6666,Mobile Money
+26,26,6422,Mobile Money
+27,27,7138,Mobile Money
+28,28,99,Bank Transfer
+29,29,7070,Bank Transfer
+30,30,6730,PayPal
+31,31,6078,PayPal
+32,32,7627,Credit Card
+33,33,9370,Credit Card
+34,34,4815,PayPal
+35,35,1092,Mobile Money
+36,36,3575,Mobile Money
+37,37,3717,Credit Card
+38,38,7444,Bank Transfer
+39,39,3468,Credit Card
+40,40,6965,PayPal
+41,41,3986,Bank Transfer
+42,42,2646,Mobile Money
+43,43,45,Credit Card
+44,44,2298,Mobile Money
+45,45,9619,PayPal
+46,46,9810,Credit Card
+47,47,1073,Mobile Money
+48,48,1248,Credit Card
+49,49,2278,Credit Card
+50,50,7597,PayPal
+51,51,5598,PayPal
+52,52,6306,Bank Transfer
+53,53,2792,Credit Card
+54,54,1302,PayPal
+55,55,5795,Credit Card
+56,56,917,Bank Transfer
+57,57,4487,Bank Transfer
+58,58,3098,PayPal
+59,59,4846,Credit Card
+60,60,5882,Credit Card
+61,61,5061,Credit Card
+62,62,5078,Bank Transfer
+63,63,4886,Mobile Money
+64,64,6737,PayPal
+65,65,7097,PayPal
+66,66,7113,PayPal
+67,67,9650,PayPal
+68,68,6351,Bank Transfer
+69,69,7244,Mobile Money
+70,70,7183,Credit Card
+71,71,7681,Bank Transfer
+72,72,9635,Credit Card
+73,73,2274,Mobile Money
+74,74,9011,Mobile Money
+75,75,2358,Credit Card
+76,76,6546,Bank Transfer
+77,77,751,PayPal
+78,78,4260,Bank Transfer
+79,79,1004,Credit Card
+80,80,945,Credit Card
+81,81,2791,Bank Transfer
+82,82,499,Credit Card
+83,83,985,Bank Transfer
+84,84,7075,PayPal
+85,85,9815,Credit Card
+86,86,7339,PayPal
+87,87,4092,Bank Transfer
+88,88,5697,Credit Card
+89,89,7076,PayPal
+90,90,7073,Credit Card
+91,91,6004,Mobile Money
+92,92,9183,Credit Card
+93,93,9560,PayPal
+94,94,7826,Bank Transfer
+95,95,421,Credit Card
+96,96,3226,Mobile Money
+97,97,5574,Credit Card
+98,98,1127,Mobile Money
+99,99,8731,Credit Card
+100,100,564,Credit Card
+101,101,3418,Bank Transfer
+102,102,3616,Credit Card
+103,103,5033,Credit Card
+104,104,8758,Bank Transfer
+105,105,1275,Credit Card
+106,106,112,Credit Card
+107,107,3671,PayPal
+108,108,7498,Bank Transfer
+109,109,1197,Credit Card
+110,110,255,Mobile Money
+111,111,6802,PayPal
+112,112,9581,Bank Transfer
+113,113,3788,Bank Transfer
+114,114,9899,Mobile Money
+115,115,3463,Bank Transfer
+116,116,8838,Bank Transfer
+117,117,1440,PayPal
+118,118,9451,Credit Card
+119,119,2805,Mobile Money
+120,120,668,Mobile Money
+121,121,6151,Bank Transfer
+122,122,7592,PayPal
+123,123,8668,PayPal
+124,124,6934,Bank Transfer
+125,125,7904,Credit Card
+126,126,3842,Bank Transfer
+127,127,6740,Credit Card
+128,128,2144,Credit Card
+129,129,5062,Bank Transfer
+130,130,217,Mobile Money
+131,131,1486,Bank Transfer
+132,132,2798,Mobile Money
+133,133,4775,PayPal
+134,134,1325,Credit Card
+135,135,4836,Bank Transfer
+136,136,5384,Bank Transfer
+137,137,3971,Mobile Money
+138,138,6567,Credit Card
+139,139,5216,Bank Transfer
+140,140,4005,Mobile Money
+141,141,4584,Bank Transfer
+142,142,7189,Bank Transfer
+143,143,1863,Bank Transfer
+144,144,3212,Credit Card
+145,145,1595,Credit Card
+146,146,8310,Credit Card
+147,147,6961,PayPal
+148,148,2791,Credit Card
+149,149,1775,Mobile Money
+150,150,355,Bank Transfer
+151,151,9702,Mobile Money
+152,152,6739,Credit Card
+153,153,8692,PayPal
+154,154,7241,PayPal
+155,155,220,Mobile Money
+156,156,7985,Mobile Money
+157,157,1278,PayPal
+158,158,1531,PayPal
+159,159,4088,Credit Card
+160,160,2783,Bank Transfer
+161,161,7595,Bank Transfer
+162,162,1336,PayPal
+163,163,9041,Bank Transfer
+164,164,7783,Credit Card
+165,165,3099,PayPal
+166,166,598,Credit Card
+167,167,3344,Mobile Money
+168,168,3736,PayPal
+169,169,7933,PayPal
+170,170,7039,Mobile Money
+171,171,4753,PayPal
+172,172,263,Credit Card
+173,173,8783,Credit Card
+174,174,4685,Credit Card
+175,175,3355,Mobile Money
+176,176,8247,PayPal
+177,177,3981,Credit Card
+178,178,3924,Credit Card
+179,179,4499,Credit Card
+180,180,9454,Mobile Money
+181,181,7332,Bank Transfer
+182,182,9935,PayPal
+183,183,6486,Mobile Money
+184,184,4639,Mobile Money
+185,185,5016,PayPal
+186,186,8136,PayPal
+187,187,4257,Bank Transfer
+188,188,3752,Credit Card
+189,189,4987,PayPal
+190,190,3317,Mobile Money
+191,191,8590,Credit Card
+192,192,272,PayPal
+193,193,217,Bank Transfer
+194,194,8297,Bank Transfer
+195,195,4403,Credit Card
+196,196,3448,PayPal
+197,197,4808,Bank Transfer
+198,198,819,Bank Transfer
+199,199,7864,Credit Card
+200,200,5567,PayPal
+201,201,2513,Bank Transfer
+202,202,2721,Bank Transfer
+203,203,9726,Mobile Money
+204,204,6728,PayPal
+205,205,8893,Mobile Money
+206,206,8735,Mobile Money
+207,207,6032,PayPal
+208,208,2321,Bank Transfer
+209,209,3478,Mobile Money
+210,210,6864,PayPal
+211,211,7332,Bank Transfer
+212,212,5910,Mobile Money
+213,213,1386,PayPal
+214,214,9792,PayPal
+215,215,7737,Bank Transfer
+216,216,2489,Credit Card
+217,217,5962,Credit Card
+218,218,418,Bank Transfer
+219,219,4081,Bank Transfer
+220,220,1073,Mobile Money
+221,221,5724,Credit Card
+222,222,6127,Bank Transfer
+223,223,8870,Mobile Money
+224,224,8016,PayPal
+225,225,6799,Bank Transfer
+226,226,5323,Credit Card
+227,227,6868,Bank Transfer
+228,228,2004,Credit Card
+229,229,7833,PayPal
+230,230,1212,Bank Transfer
+231,231,3852,Mobile Money
+232,232,2999,Credit Card
+233,233,509,PayPal
+234,234,7211,Credit Card
+235,235,6099,Mobile Money
+236,236,3033,Mobile Money
+237,237,5834,Credit Card
+238,238,5449,Credit Card
+239,239,1403,Mobile Money
+240,240,4503,PayPal
+241,241,3127,Bank Transfer
+242,242,2370,Mobile Money
+243,243,6338,Credit Card
+244,244,1149,Bank Transfer
+245,245,6818,Bank Transfer
+246,246,6862,PayPal
+247,247,320,Credit Card
+248,248,5177,Bank Transfer
+249,249,9690,Mobile Money
+250,250,2036,Bank Transfer
+251,251,9505,PayPal
+252,252,2284,Mobile Money
+253,253,3469,Mobile Money
+254,254,8679,Mobile Money
+255,255,3779,Bank Transfer
+256,256,9841,Bank Transfer
+257,257,5001,PayPal
+258,258,4957,PayPal
+259,259,8122,Mobile Money
+260,260,567,Credit Card
+261,261,382,Credit Card
+262,262,6693,PayPal
+263,263,1653,PayPal
+264,264,4734,Bank Transfer
+265,265,7934,Credit Card
+266,266,604,Credit Card
+267,267,5094,Bank Transfer
+268,268,6488,Bank Transfer
+269,269,1917,Credit Card
+270,270,6212,Credit Card
+271,271,8106,PayPal
+272,272,9897,PayPal
+273,273,1655,Bank Transfer
+274,274,9494,Bank Transfer
+275,275,4145,Bank Transfer
+276,276,1752,Mobile Money
+277,277,2102,Mobile Money
+278,278,7169,Bank Transfer
+279,279,9815,Bank Transfer
+280,280,6131,Credit Card
+281,281,5833,Credit Card
+282,282,4757,PayPal
+283,283,3982,Mobile Money
+284,284,7054,Mobile Money
+285,285,3785,Credit Card
+286,286,9159,Mobile Money
+287,287,3023,Credit Card
+288,288,5096,Credit Card
+289,289,9251,Mobile Money
+290,290,9458,Credit Card
+291,291,6468,Mobile Money
+292,292,8229,PayPal
+293,293,3591,Mobile Money
+294,294,182,Mobile Money
+295,295,3223,Bank Transfer
+296,296,9979,Bank Transfer
+297,297,1098,Mobile Money
+298,298,7178,Mobile Money
+299,299,3562,Bank Transfer
+300,300,8262,Credit Card
+301,301,8863,Mobile Money
+302,302,1770,Mobile Money
+303,303,8093,Bank Transfer
+304,304,8452,Mobile Money
+305,305,2130,PayPal
+306,306,3902,Mobile Money
+307,307,674,Credit Card
+308,308,9579,Bank Transfer
+309,309,8004,Credit Card
+310,310,1324,PayPal
+311,311,3429,Mobile Money
+312,312,9140,Bank Transfer
+313,313,8050,PayPal
+314,314,1655,Credit Card
+315,315,9091,Mobile Money
+316,316,8956,Bank Transfer
+317,317,1000,Credit Card
+318,318,158,Mobile Money
+319,319,3019,Mobile Money
+320,320,8852,Credit Card
+321,321,8442,Credit Card
+322,322,5850,PayPal
+323,323,3366,Credit Card
+324,324,1649,Bank Transfer
+325,325,2150,Credit Card
+326,326,987,PayPal
+327,327,9111,Credit Card
+328,328,6018,Bank Transfer
+329,329,4665,Credit Card
+330,330,7948,Credit Card
+331,331,7419,Mobile Money
+332,332,2139,Credit Card
+333,333,9244,Credit Card
+334,334,7237,Bank Transfer
+335,335,7321,PayPal
+336,336,3064,Bank Transfer
+337,337,8067,PayPal
+338,338,1283,Mobile Money
+339,339,6329,Credit Card
+340,340,899,Bank Transfer
+341,341,3130,Credit Card
+342,342,156,Bank Transfer
+343,343,4902,Mobile Money
+344,344,3916,PayPal
+345,345,6636,Credit Card
+346,346,357,PayPal
+347,347,6778,PayPal
+348,348,6094,Credit Card
+349,349,8814,Credit Card
+350,350,7613,Mobile Money
+351,351,6055,Bank Transfer
+352,352,343,Mobile Money
+353,353,189,Credit Card
+354,354,3827,Credit Card
+355,355,4306,Mobile Money
+356,356,2018,Credit Card
+357,357,2041,Mobile Money
+358,358,7683,PayPal
+359,359,2851,Bank Transfer
+360,360,5786,Mobile Money
+361,361,3530,PayPal
+362,362,3632,Bank Transfer
+363,363,9271,PayPal
+364,364,5790,PayPal
+365,365,7801,Mobile Money
+366,366,6397,Mobile Money
+367,367,5914,Bank Transfer
+368,368,3237,Bank Transfer
+369,369,2259,Mobile Money
+370,370,3354,Bank Transfer
+371,371,8821,Mobile Money
+372,372,4495,Bank Transfer
+373,373,912,Mobile Money
+374,374,2347,PayPal
+375,375,2322,Bank Transfer
+376,376,5425,Bank Transfer
+377,377,9927,PayPal
+378,378,6185,Mobile Money
+379,379,8540,Credit Card
+380,380,6365,Bank Transfer
+381,381,1998,Mobile Money
+382,382,9315,Mobile Money
+383,383,4961,Bank Transfer
+384,384,1096,Credit Card
+385,385,7242,Mobile Money
+386,386,9828,Credit Card
+387,387,461,Bank Transfer
+388,388,9258,Bank Transfer
+389,389,1631,Credit Card
+390,390,6018,Bank Transfer
+391,391,7402,PayPal
+392,392,2951,PayPal
+393,393,7680,Bank Transfer
+394,394,8563,Mobile Money
+395,395,4557,Credit Card
+396,396,8343,Mobile Money
+397,397,9866,PayPal
+398,398,9447,Bank Transfer
+399,399,4532,Mobile Money
+400,400,8749,Mobile Money
+401,401,6278,Bank Transfer
+402,402,4572,Mobile Money
+403,403,6423,PayPal
+404,404,6190,Credit Card
+405,405,160,Credit Card
+406,406,4301,Credit Card
+407,407,5837,Bank Transfer
+408,408,8880,PayPal
+409,409,6521,Bank Transfer
+410,410,2548,PayPal
+411,411,659,Credit Card
+412,412,2744,Mobile Money
+413,413,3343,Mobile Money
+414,414,6099,PayPal
+415,415,1763,Bank Transfer
+416,416,9525,Bank Transfer
+417,417,6341,Bank Transfer
+418,418,9604,Credit Card
+419,419,1791,PayPal
+420,420,9259,PayPal
+421,421,7725,Bank Transfer
+422,422,2991,Mobile Money
+423,423,3228,PayPal
+424,424,1854,Mobile Money
+425,425,7417,Credit Card
+426,426,9805,Mobile Money
+427,427,8604,Mobile Money
+428,428,531,Credit Card
+429,429,2606,PayPal
+430,430,620,Mobile Money
+431,431,7501,Mobile Money
+432,432,3039,Credit Card
+433,433,6223,Credit Card
+434,434,9950,Bank Transfer
+435,435,348,PayPal
+436,436,3079,Credit Card
+437,437,794,Credit Card
+438,438,1942,Mobile Money
+439,439,2348,Mobile Money
+440,440,5038,Bank Transfer
+441,441,5407,Mobile Money
+442,442,9815,PayPal
+443,443,7160,Bank Transfer
+444,444,7893,PayPal
+445,445,9537,Mobile Money
+446,446,3960,PayPal
+447,447,6428,Mobile Money
+448,448,3688,PayPal
+449,449,3086,Mobile Money
+450,450,6138,Bank Transfer
+451,451,5574,PayPal
+452,452,3855,Credit Card
+453,453,8121,Bank Transfer
+454,454,7307,Credit Card
+455,455,7974,Mobile Money
+456,456,325,PayPal
+457,457,5893,Credit Card
+458,458,6317,PayPal
+459,459,9910,Bank Transfer
+460,460,9287,Mobile Money
+461,461,2982,Bank Transfer
+462,462,4960,Credit Card
+463,463,2519,Mobile Money
+464,464,6813,Mobile Money
+465,465,4805,Bank Transfer
+466,466,789,Credit Card
+467,467,8927,Bank Transfer
+468,468,5397,Bank Transfer
+469,469,8568,PayPal
+470,470,8508,Bank Transfer
+471,471,5900,Mobile Money
+472,472,1562,Mobile Money
+473,473,4513,Credit Card
+474,474,352,Mobile Money
+475,475,9150,PayPal
+476,476,5906,Mobile Money
+477,477,776,Bank Transfer
+478,478,7841,Credit Card
+479,479,7240,PayPal
+480,480,4156,PayPal
+481,481,4171,PayPal
+482,482,7558,Credit Card
+483,483,6332,PayPal
+484,484,9345,Credit Card
+485,485,8412,Credit Card
+486,486,1930,Bank Transfer
+487,487,4023,PayPal
+488,488,4803,Credit Card
+489,489,1487,Credit Card
+490,490,1893,Credit Card
+491,491,4312,Credit Card
+492,492,2878,Mobile Money
+493,493,245,Mobile Money
+494,494,9433,Credit Card
+495,495,8233,PayPal
+496,496,6559,Mobile Money
+497,497,7915,PayPal
+498,498,9987,Credit Card
+499,499,8496,Credit Card
+500,500,4759,Mobile Money
+501,501,3455,Credit Card
+502,502,7714,PayPal
+503,503,4646,Mobile Money
+504,504,468,Credit Card
+505,505,5098,Mobile Money
+506,506,176,Credit Card
+507,507,4559,PayPal
+508,508,2390,PayPal
+509,509,8892,Mobile Money
+510,510,9784,PayPal
+511,511,535,Bank Transfer
+512,512,2189,Bank Transfer
+513,513,1176,Credit Card
+514,514,3364,Bank Transfer
+515,515,6624,Mobile Money
+516,516,55,Mobile Money
+517,517,378,Mobile Money
+518,518,6110,Mobile Money
+519,519,3000,Credit Card
+520,520,4745,Bank Transfer
+521,521,2529,Bank Transfer
+522,522,257,PayPal
+523,523,9938,Credit Card
+524,524,5382,Bank Transfer
+525,525,7167,Bank Transfer
+526,526,6815,Mobile Money
+527,527,3537,PayPal
+528,528,2954,PayPal
+529,529,6537,PayPal
+530,530,5157,Bank Transfer
+531,531,9339,Bank Transfer
+532,532,2283,PayPal
+533,533,139,PayPal
+534,534,6808,PayPal
+535,535,4783,Credit Card
+536,536,1385,Credit Card
+537,537,8340,Mobile Money
+538,538,7820,Mobile Money
+539,539,8699,Credit Card
+540,540,1085,Bank Transfer
+541,541,5002,Credit Card
+542,542,189,PayPal
+543,543,3636,Credit Card
+544,544,9432,Credit Card
+545,545,552,Credit Card
+546,546,1555,Credit Card
+547,547,3152,Mobile Money
+548,548,6933,PayPal
+549,549,152,Bank Transfer
+550,550,8993,Bank Transfer
+551,551,4524,PayPal
+552,552,5593,Mobile Money
+553,553,9542,PayPal
+554,554,3711,PayPal
+555,555,778,Credit Card
+556,556,9128,Credit Card
+557,557,3681,Credit Card
+558,558,3421,Bank Transfer
+559,559,1618,PayPal
+560,560,5621,Credit Card
+561,561,1301,Mobile Money
+562,562,683,Credit Card
+563,563,6541,Credit Card
+564,564,6095,Mobile Money
+565,565,7497,Bank Transfer
+566,566,4498,Mobile Money
+567,567,9069,Bank Transfer
+568,568,7476,Bank Transfer
+569,569,9515,PayPal
+570,570,1976,Credit Card
+571,571,6192,Bank Transfer
+572,572,1225,Mobile Money
+573,573,9969,Mobile Money
+574,574,114,Credit Card
+575,575,6405,Credit Card
+576,576,3635,Credit Card
+577,577,3553,Bank Transfer
+578,578,2255,Bank Transfer
+579,579,9232,Bank Transfer
+580,580,2230,Mobile Money
+581,581,3854,Credit Card
+582,582,4680,Credit Card
+583,583,1809,Credit Card
+584,584,1414,Mobile Money
+585,585,8399,PayPal
+586,586,7533,Bank Transfer
+587,587,2202,Credit Card
+588,588,653,PayPal
+589,589,7669,Credit Card
+590,590,2362,PayPal
+591,591,8282,PayPal
+592,592,2039,PayPal
+593,593,1659,Credit Card
+594,594,9888,Bank Transfer
+595,595,2583,Credit Card
+596,596,6209,Mobile Money
+597,597,4010,Mobile Money
+598,598,4583,PayPal
+599,599,6750,PayPal
+600,600,1458,Bank Transfer
+601,601,2419,Mobile Money
+602,602,4660,Mobile Money
+603,603,8263,Credit Card
+604,604,7351,Bank Transfer
+605,605,1702,Mobile Money
+606,606,3878,Credit Card
+607,607,6962,PayPal
+608,608,5935,PayPal
+609,609,5737,Bank Transfer
+610,610,123,Credit Card
+611,611,6748,PayPal
+612,612,5334,PayPal
+613,613,7815,Mobile Money
+614,614,9862,PayPal
+615,615,1366,Bank Transfer
+616,616,1158,Credit Card
+617,617,7258,Credit Card
+618,618,7349,Credit Card
+619,619,3409,PayPal
+620,620,5282,Credit Card
+621,621,6158,PayPal
+622,622,3109,Mobile Money
+623,623,5354,PayPal
+624,624,8783,Bank Transfer
+625,625,45,PayPal
+626,626,8853,Credit Card
+627,627,7555,Credit Card
+628,628,4284,PayPal
+629,629,703,PayPal
+630,630,6839,PayPal
+631,631,5575,PayPal
+632,632,2976,Mobile Money
+633,633,9722,Credit Card
+634,634,5636,PayPal
+635,635,258,Credit Card
+636,636,7786,PayPal
+637,637,9313,Credit Card
+638,638,8047,Credit Card
+639,639,1583,Credit Card
+640,640,1754,Mobile Money
+641,641,9600,PayPal
+642,642,2567,Credit Card
+643,643,8628,Mobile Money
+644,644,2424,Credit Card
+645,645,5546,PayPal
+646,646,3454,Mobile Money
+647,647,3720,PayPal
+648,648,2512,Mobile Money
+649,649,6137,Credit Card
+650,650,5131,Mobile Money
+651,651,5135,Credit Card
+652,652,6527,Credit Card
+653,653,7761,PayPal
+654,654,4291,Mobile Money
+655,655,6530,Credit Card
+656,656,6814,PayPal
+657,657,9696,Bank Transfer
+658,658,3053,Mobile Money
+659,659,2161,PayPal
+660,660,9839,Credit Card
+661,661,4352,PayPal
+662,662,3073,Bank Transfer
+663,663,9730,Mobile Money
+664,664,5163,Bank Transfer
+665,665,3928,PayPal
+666,666,309,Credit Card
+667,667,5729,Bank Transfer
+668,668,4282,Bank Transfer
+669,669,6693,Mobile Money
+670,670,445,Bank Transfer
+671,671,8527,Mobile Money
+672,672,770,Credit Card
+673,673,7287,Mobile Money
+674,674,4625,PayPal
+675,675,9476,Credit Card
+676,676,1755,PayPal
+677,677,6781,Mobile Money
+678,678,4864,Credit Card
+679,679,9147,Credit Card
+680,680,7862,Credit Card
+681,681,8285,Mobile Money
+682,682,9585,Credit Card
+683,683,8144,PayPal
+684,684,1130,Mobile Money
+685,685,6760,Bank Transfer
+686,686,4755,Bank Transfer
+687,687,7138,Bank Transfer
+688,688,6307,PayPal
+689,689,2109,PayPal
+690,690,4069,PayPal
+691,691,9470,PayPal
+692,692,2071,Mobile Money
+693,693,1732,PayPal
+694,694,8165,Bank Transfer
+695,695,2927,Mobile Money
+696,696,1890,Credit Card
+697,697,5047,Credit Card
+698,698,5274,Mobile Money
+699,699,2626,PayPal
+700,700,6154,PayPal
+701,701,6663,PayPal
+702,702,776,PayPal
+703,703,5738,Bank Transfer
+704,704,7970,PayPal
+705,705,2419,Bank Transfer
+706,706,4116,Bank Transfer
+707,707,2000,Mobile Money
+708,708,5435,Credit Card
+709,709,4893,Bank Transfer
+710,710,2798,Bank Transfer
+711,711,470,PayPal
+712,712,854,PayPal
+713,713,5906,Mobile Money
+714,714,1816,PayPal
+715,715,4064,Mobile Money
+716,716,4562,Bank Transfer
+717,717,8891,Credit Card
+718,718,6356,Credit Card
+719,719,2556,Credit Card
+720,720,7544,Bank Transfer
+721,721,5399,Mobile Money
+722,722,5264,Mobile Money
+723,723,8245,Credit Card
+724,724,5454,Bank Transfer
+725,725,4386,Bank Transfer
+726,726,3432,Bank Transfer
+727,727,4740,Bank Transfer
+728,728,4877,Mobile Money
+729,729,152,Bank Transfer
+730,730,2659,PayPal
+731,731,1917,PayPal
+732,732,6037,Mobile Money
+733,733,1398,PayPal
+734,734,7554,PayPal
+735,735,8109,Bank Transfer
+736,736,3386,Mobile Money
+737,737,6241,PayPal
+738,738,9817,Bank Transfer
+739,739,5783,PayPal
+740,740,2154,Bank Transfer
+741,741,7830,Credit Card
+742,742,8952,Mobile Money
+743,743,6542,Bank Transfer
+744,744,2362,Mobile Money
+745,745,1122,PayPal
+746,746,6585,Bank Transfer
+747,747,6697,Bank Transfer
+748,748,840,PayPal
+749,749,6763,Mobile Money
+750,750,9596,Bank Transfer
+751,751,7739,Mobile Money
+752,752,9845,PayPal
+753,753,5133,PayPal
+754,754,2579,Bank Transfer
+755,755,7398,PayPal
+756,756,2101,Mobile Money
+757,757,3400,Mobile Money
+758,758,9441,Credit Card
+759,759,7558,PayPal
+760,760,5730,Credit Card
+761,761,9728,Credit Card
+762,762,264,Bank Transfer
+763,763,8038,Credit Card
+764,764,8872,Mobile Money
+765,765,4635,PayPal
+766,766,9438,PayPal
+767,767,320,Credit Card
+768,768,5672,Credit Card
+769,769,9858,Credit Card
+770,770,3454,Credit Card
+771,771,2626,Bank Transfer
+772,772,673,Mobile Money
+773,773,6079,Mobile Money
+774,774,9228,Credit Card
+775,775,1729,Credit Card
+776,776,2681,Bank Transfer
+777,777,9452,Bank Transfer
+778,778,5089,Credit Card
+779,779,8217,Credit Card
+780,780,6340,Bank Transfer
+781,781,4250,PayPal
+782,782,3927,Bank Transfer
+783,783,4978,Credit Card
+784,784,2375,PayPal
+785,785,4571,PayPal
+786,786,5472,Mobile Money
+787,787,1881,PayPal
+788,788,1042,PayPal
+789,789,8962,Credit Card
+790,790,1913,Bank Transfer
+791,791,3410,Mobile Money
+792,792,3407,Mobile Money
+793,793,952,Credit Card
+794,794,8808,Mobile Money
+795,795,1649,Credit Card
+796,796,105,Bank Transfer
+797,797,8731,PayPal
+798,798,2183,PayPal
+799,799,5966,Mobile Money
+800,800,272,Bank Transfer
+801,801,7608,Mobile Money
+802,802,8249,PayPal
+803,803,1642,PayPal
+804,804,9937,PayPal
+805,805,4844,Bank Transfer
+806,806,5992,Credit Card
+807,807,5715,Mobile Money
+808,808,8795,Mobile Money
+809,809,8313,PayPal
+810,810,1167,Bank Transfer
+811,811,4238,Mobile Money
+812,812,6165,Bank Transfer
+813,813,2238,Bank Transfer
+814,814,5729,Bank Transfer
+815,815,859,Bank Transfer
+816,816,7159,Mobile Money
+817,817,3706,Credit Card
+818,818,511,Mobile Money
+819,819,835,Credit Card
+820,820,810,Bank Transfer
+821,821,239,Mobile Money
+822,822,6273,Mobile Money
+823,823,4417,Bank Transfer
+824,824,3071,Bank Transfer
+825,825,8238,PayPal
+826,826,2275,Bank Transfer
+827,827,1024,Bank Transfer
+828,828,9378,Mobile Money
+829,829,3821,Bank Transfer
+830,830,2602,Bank Transfer
+831,831,6109,Mobile Money
+832,832,6611,Credit Card
+833,833,7226,Bank Transfer
+834,834,1274,Mobile Money
+835,835,2757,Mobile Money
+836,836,447,Bank Transfer
+837,837,366,Bank Transfer
+838,838,3600,Mobile Money
+839,839,3034,PayPal
+840,840,2345,Mobile Money
+841,841,4315,Mobile Money
+842,842,6352,Mobile Money
+843,843,8674,Bank Transfer
+844,844,7094,PayPal
+845,845,4291,Credit Card
+846,846,26,Mobile Money
+847,847,3113,PayPal
+848,848,9609,Mobile Money
+849,849,1714,Mobile Money
+850,850,1591,PayPal
+851,851,7434,Bank Transfer
+852,852,8579,Credit Card
+853,853,8460,Credit Card
+854,854,6370,Credit Card
+855,855,8538,Mobile Money
+856,856,7935,Bank Transfer
+857,857,8790,Mobile Money
+858,858,7862,PayPal
+859,859,1501,Credit Card
+860,860,4157,Mobile Money
+861,861,7173,Credit Card
+862,862,2670,Mobile Money
+863,863,3166,Mobile Money
+864,864,3750,Credit Card
+865,865,8402,Mobile Money
+866,866,7160,Bank Transfer
+867,867,7676,Bank Transfer
+868,868,5692,Bank Transfer
+869,869,6262,Bank Transfer
+870,870,2474,Mobile Money
+871,871,7246,Mobile Money
+872,872,270,Mobile Money
+873,873,9231,PayPal
+874,874,3842,Bank Transfer
+875,875,4226,PayPal
+876,876,1314,PayPal
+877,877,6996,PayPal
+878,878,644,Credit Card
+879,879,6654,Mobile Money
+880,880,9705,Bank Transfer
+881,881,2513,Mobile Money
+882,882,5462,Bank Transfer
+883,883,4921,Bank Transfer
+884,884,956,Mobile Money
+885,885,6245,Bank Transfer
+886,886,3432,Bank Transfer
+887,887,2099,Credit Card
+888,888,827,Bank Transfer
+889,889,2928,Bank Transfer
+890,890,8891,PayPal
+891,891,831,Bank Transfer
+892,892,6037,Credit Card
+893,893,7349,PayPal
+894,894,8741,Credit Card
+895,895,3081,Mobile Money
+896,896,715,Mobile Money
+897,897,6730,Mobile Money
+898,898,3750,Mobile Money
+899,899,641,PayPal
+900,900,9004,Mobile Money
+901,901,938,Credit Card
+902,902,3911,Credit Card
+903,903,3934,Bank Transfer
+904,904,5852,Mobile Money
+905,905,7281,Bank Transfer
+906,906,5711,Bank Transfer
+907,907,5114,Credit Card
+908,908,6051,PayPal
+909,909,7644,Bank Transfer
+910,910,9506,Credit Card
+911,911,2482,Bank Transfer
+912,912,7835,PayPal
+913,913,1801,PayPal
+914,914,199,Mobile Money
+915,915,9069,Credit Card
+916,916,9745,Bank Transfer
+917,917,9971,Credit Card
+918,918,948,PayPal
+919,919,4335,Bank Transfer
+920,920,8630,Credit Card
+921,921,8644,Credit Card
+922,922,959,Bank Transfer
+923,923,5463,Credit Card
+924,924,5979,Mobile Money
+925,925,4431,Bank Transfer
+926,926,5821,Credit Card
+927,927,8860,Bank Transfer
+928,928,2683,Bank Transfer
+929,929,6033,Mobile Money
+930,930,9824,Credit Card
+931,931,6766,Bank Transfer
+932,932,251,PayPal
+933,933,524,Credit Card
+934,934,5449,Mobile Money
+935,935,5875,Credit Card
+936,936,8270,Mobile Money
+937,937,7615,PayPal
+938,938,9969,Bank Transfer
+939,939,621,Mobile Money
+940,940,8730,Bank Transfer
+941,941,9225,PayPal
+942,942,1054,Credit Card
+943,943,5735,Credit Card
+944,944,1168,PayPal
+945,945,9615,Bank Transfer
+946,946,1643,Mobile Money
+947,947,4611,Credit Card
+948,948,6521,Credit Card
+949,949,3337,Credit Card
+950,950,9336,PayPal
+951,951,3003,Credit Card
+952,952,713,Credit Card
+953,953,3743,Mobile Money
+954,954,9479,Bank Transfer
+955,955,6626,Mobile Money
+956,956,835,Mobile Money
+957,957,2732,PayPal
+958,958,3774,PayPal
+959,959,7404,Credit Card
+960,960,3232,Bank Transfer
+961,961,7972,PayPal
+962,962,4084,PayPal
+963,963,4191,Credit Card
+964,964,5010,Mobile Money
+965,965,7656,PayPal
+966,966,3557,PayPal
+967,967,4710,Credit Card
+968,968,9232,PayPal
+969,969,6254,Credit Card
+970,970,3884,Mobile Money
+971,971,8759,Bank Transfer
+972,972,2615,Mobile Money
+973,973,7081,Credit Card
+974,974,9044,Bank Transfer
+975,975,7324,Credit Card
+976,976,9083,Mobile Money
+977,977,8487,Mobile Money
+978,978,3162,PayPal
+979,979,3165,Credit Card
+980,980,1939,Mobile Money
+981,981,3173,PayPal
+982,982,6404,Credit Card
+983,983,3027,Mobile Money
+984,984,8508,PayPal
+985,985,9230,PayPal
+986,986,7841,Credit Card
+987,987,4775,Mobile Money
+988,988,5912,Credit Card
+989,989,6909,Mobile Money
+990,990,2930,Credit Card
+991,991,6991,PayPal
+992,992,8090,Mobile Money
+993,993,8048,PayPal
+994,994,6027,Mobile Money
+995,995,5295,Mobile Money
+996,996,5237,Mobile Money
+997,997,9985,PayPal
+998,998,8205,Mobile Money
+999,999,5890,Mobile Money
+1000,1000,9412,Mobile Money
+1001,1001,4403,Credit Card
+1002,1002,5561,Bank Transfer
+1003,1003,8745,Credit Card
+1004,1004,6838,PayPal
+1005,1005,3804,Credit Card
+1006,1006,7078,Mobile Money
+1007,1007,9342,Bank Transfer
+1008,1008,8641,PayPal
+1009,1009,5154,Bank Transfer
+1010,1010,211,Credit Card
+1011,1011,3490,Bank Transfer
+1012,1012,1003,Credit Card
+1013,1013,4077,Credit Card
+1014,1014,9613,Credit Card
+1015,1015,8135,PayPal
+1016,1016,1824,PayPal
+1017,1017,3740,Credit Card
+1018,1018,2520,PayPal
+1019,1019,1272,Mobile Money
+1020,1020,2625,Mobile Money
+1021,1021,8623,Credit Card
+1022,1022,7501,Bank Transfer
+1023,1023,3994,Bank Transfer
+1024,1024,7402,Mobile Money
+1025,1025,6230,Credit Card
+1026,1026,5007,Bank Transfer
+1027,1027,4616,Mobile Money
+1028,1028,7043,Bank Transfer
+1029,1029,6062,Mobile Money
+1030,1030,7348,Credit Card
+1031,1031,5354,PayPal
+1032,1032,6624,Bank Transfer
+1033,1033,312,PayPal
+1034,1034,9996,Credit Card
+1035,1035,4779,PayPal
+1036,1036,2131,Mobile Money
+1037,1037,970,Bank Transfer
+1038,1038,1934,Bank Transfer
+1039,1039,7225,Bank Transfer
+1040,1040,9978,Mobile Money
+1041,1041,6181,Bank Transfer
+1042,1042,3317,Mobile Money
+1043,1043,7118,PayPal
+1044,1044,8219,Credit Card
+1045,1045,1521,Mobile Money
+1046,1046,1699,Bank Transfer
+1047,1047,7049,Bank Transfer
+1048,1048,1132,Credit Card
+1049,1049,4304,PayPal
+1050,1050,2017,Bank Transfer
+1051,1051,7755,Mobile Money
+1052,1052,5256,Bank Transfer
+1053,1053,8459,PayPal
+1054,1054,4753,Mobile Money
+1055,1055,7506,Credit Card
+1056,1056,3720,Mobile Money
+1057,1057,6647,Bank Transfer
+1058,1058,1451,PayPal
+1059,1059,3540,Bank Transfer
+1060,1060,3573,Mobile Money
+1061,1061,2968,Bank Transfer
+1062,1062,4176,Bank Transfer
+1063,1063,9644,Bank Transfer
+1064,1064,6472,PayPal
+1065,1065,7457,Mobile Money
+1066,1066,7748,PayPal
+1067,1067,2511,Credit Card
+1068,1068,1433,Bank Transfer
+1069,1069,1230,Bank Transfer
+1070,1070,4338,Bank Transfer
+1071,1071,9107,Bank Transfer
+1072,1072,1326,PayPal
+1073,1073,8179,Credit Card
+1074,1074,3089,Mobile Money
+1075,1075,5805,Bank Transfer
+1076,1076,786,Mobile Money
+1077,1077,9686,Bank Transfer
+1078,1078,3785,Bank Transfer
+1079,1079,6694,Credit Card
+1080,1080,9714,Credit Card
+1081,1081,1748,Credit Card
+1082,1082,9637,Bank Transfer
+1083,1083,4056,Credit Card
+1084,1084,6706,Bank Transfer
+1085,1085,3576,Mobile Money
+1086,1086,3327,Credit Card
+1087,1087,6382,PayPal
+1088,1088,7905,PayPal
+1089,1089,9884,Bank Transfer
+1090,1090,1313,PayPal
+1091,1091,4574,Credit Card
+1092,1092,324,Mobile Money
+1093,1093,9849,Credit Card
+1094,1094,7509,PayPal
+1095,1095,9418,Bank Transfer
+1096,1096,616,Credit Card
+1097,1097,5155,Mobile Money
+1098,1098,4277,Mobile Money
+1099,1099,3425,Bank Transfer
+1100,1100,9716,Mobile Money
+1101,1101,2057,Mobile Money
+1102,1102,9882,PayPal
+1103,1103,3778,Credit Card
+1104,1104,9164,PayPal
+1105,1105,7691,Mobile Money
+1106,1106,2516,Bank Transfer
+1107,1107,8157,Mobile Money
+1108,1108,422,Credit Card
+1109,1109,3756,Bank Transfer
+1110,1110,6014,PayPal
+1111,1111,1205,Mobile Money
+1112,1112,621,Credit Card
+1113,1113,800,Bank Transfer
+1114,1114,2095,PayPal
+1115,1115,1995,Credit Card
+1116,1116,8861,Bank Transfer
+1117,1117,108,Bank Transfer
+1118,1118,1542,Credit Card
+1119,1119,8312,Bank Transfer
+1120,1120,4751,Bank Transfer
+1121,1121,1266,Mobile Money
+1122,1122,7230,PayPal
+1123,1123,2294,Credit Card
+1124,1124,8736,PayPal
+1125,1125,9354,Mobile Money
+1126,1126,3808,Bank Transfer
+1127,1127,1698,Credit Card
+1128,1128,1516,Mobile Money
+1129,1129,6544,PayPal
+1130,1130,2049,Mobile Money
+1131,1131,6771,Bank Transfer
+1132,1132,4003,Credit Card
+1133,1133,3387,Mobile Money
+1134,1134,5931,Mobile Money
+1135,1135,4514,PayPal
+1136,1136,7705,Bank Transfer
+1137,1137,5339,Credit Card
+1138,1138,6407,Bank Transfer
+1139,1139,5511,Mobile Money
+1140,1140,6785,Mobile Money
+1141,1141,6941,Mobile Money
+1142,1142,3235,Credit Card
+1143,1143,7318,Mobile Money
+1144,1144,9217,Bank Transfer
+1145,1145,9777,Mobile Money
+1146,1146,7214,PayPal
+1147,1147,3334,Mobile Money
+1148,1148,1099,Bank Transfer
+1149,1149,1918,Mobile Money
+1150,1150,4971,Mobile Money
+1151,1151,9530,Bank Transfer
+1152,1152,6285,Credit Card
+1153,1153,9278,PayPal
+1154,1154,5590,Mobile Money
+1155,1155,3387,Mobile Money
+1156,1156,903,Credit Card
+1157,1157,184,Mobile Money
+1158,1158,6334,Mobile Money
+1159,1159,2561,Bank Transfer
+1160,1160,9309,Mobile Money
+1161,1161,4851,Bank Transfer
+1162,1162,1449,PayPal
+1163,1163,7216,Mobile Money
+1164,1164,3014,Bank Transfer
+1165,1165,2681,Credit Card
+1166,1166,1864,Mobile Money
+1167,1167,1528,Credit Card
+1168,1168,3941,PayPal
+1169,1169,1880,PayPal
+1170,1170,1335,Mobile Money
+1171,1171,2994,Mobile Money
+1172,1172,9578,Bank Transfer
+1173,1173,2804,Credit Card
+1174,1174,8060,Mobile Money
+1175,1175,7102,Credit Card
+1176,1176,6866,Credit Card
+1177,1177,8837,Credit Card
+1178,1178,5128,Bank Transfer
+1179,1179,6139,Mobile Money
+1180,1180,4048,Credit Card
+1181,1181,8231,Mobile Money
+1182,1182,5930,PayPal
+1183,1183,726,Bank Transfer
+1184,1184,4752,PayPal
+1185,1185,2027,PayPal
+1186,1186,5682,Bank Transfer
+1187,1187,9362,Bank Transfer
+1188,1188,8761,Bank Transfer
+1189,1189,5161,Bank Transfer
+1190,1190,6170,Mobile Money
+1191,1191,5224,PayPal
+1192,1192,9241,Bank Transfer
+1193,1193,8370,Credit Card
+1194,1194,1593,Credit Card
+1195,1195,6745,PayPal
+1196,1196,5091,PayPal
+1197,1197,6769,Credit Card
+1198,1198,4672,PayPal
+1199,1199,2011,Bank Transfer
+1200,1200,8559,Credit Card
+1201,1201,6357,Credit Card
+1202,1202,905,Bank Transfer
+1203,1203,1077,PayPal
+1204,1204,7299,PayPal
+1205,1205,3721,Credit Card
+1206,1206,7004,PayPal
+1207,1207,5342,PayPal
+1208,1208,6292,Credit Card
+1209,1209,6561,Mobile Money
+1210,1210,2199,Credit Card
+1211,1211,8590,Bank Transfer
+1212,1212,6562,Mobile Money
+1213,1213,4286,PayPal
+1214,1214,7696,Bank Transfer
+1215,1215,1199,PayPal
+1216,1216,3573,Bank Transfer
+1217,1217,6393,Bank Transfer
+1218,1218,4720,PayPal
+1219,1219,817,PayPal
+1220,1220,2668,Bank Transfer
+1221,1221,8054,Bank Transfer
+1222,1222,4235,Mobile Money
+1223,1223,8220,Mobile Money
+1224,1224,3536,Credit Card
+1225,1225,4440,PayPal
+1226,1226,7509,Bank Transfer
+1227,1227,9954,Credit Card
+1228,1228,2124,Credit Card
+1229,1229,3753,Bank Transfer
+1230,1230,8397,Mobile Money
+1231,1231,4153,Credit Card
+1232,1232,3202,Bank Transfer
+1233,1233,241,Credit Card
+1234,1234,1542,Credit Card
+1235,1235,3625,Bank Transfer
+1236,1236,8805,Mobile Money
+1237,1237,8143,Credit Card
+1238,1238,2665,Bank Transfer
+1239,1239,1748,PayPal
+1240,1240,7070,Bank Transfer
+1241,1241,453,Bank Transfer
+1242,1242,8457,Bank Transfer
+1243,1243,2879,PayPal
+1244,1244,7799,PayPal
+1245,1245,6729,Bank Transfer
+1246,1246,7731,PayPal
+1247,1247,4074,Bank Transfer
+1248,1248,983,Bank Transfer
+1249,1249,7820,Credit Card
+1250,1250,6763,PayPal
+1251,1251,4590,Credit Card
+1252,1252,8026,PayPal
+1253,1253,1150,Bank Transfer
+1254,1254,6446,Bank Transfer
+1255,1255,7810,Credit Card
+1256,1256,1145,PayPal
+1257,1257,6701,Credit Card
+1258,1258,7668,Mobile Money
+1259,1259,9831,Credit Card
+1260,1260,3827,Mobile Money
+1261,1261,1743,Mobile Money
+1262,1262,6279,Mobile Money
+1263,1263,5204,Credit Card
+1264,1264,6432,Mobile Money
+1265,1265,4542,Bank Transfer
+1266,1266,9238,Credit Card
+1267,1267,9630,PayPal
+1268,1268,5331,Bank Transfer
+1269,1269,542,Mobile Money
+1270,1270,4396,Bank Transfer
+1271,1271,5721,Credit Card
+1272,1272,7772,Bank Transfer
+1273,1273,7249,Mobile Money
+1274,1274,1884,Mobile Money
+1275,1275,1954,Bank Transfer
+1276,1276,642,PayPal
+1277,1277,264,Mobile Money
+1278,1278,73,Credit Card
+1279,1279,3002,Bank Transfer
+1280,1280,1924,Bank Transfer
+1281,1281,264,Credit Card
+1282,1282,2910,PayPal
+1283,1283,3084,Bank Transfer
+1284,1284,1983,PayPal
+1285,1285,5712,Mobile Money
+1286,1286,4081,Mobile Money
+1287,1287,4175,PayPal
+1288,1288,3912,Mobile Money
+1289,1289,3848,PayPal
+1290,1290,1354,Mobile Money
+1291,1291,1432,PayPal
+1292,1292,2314,Mobile Money
+1293,1293,5198,Bank Transfer
+1294,1294,2289,Credit Card
+1295,1295,3706,PayPal
+1296,1296,7368,Bank Transfer
+1297,1297,1570,Bank Transfer
+1298,1298,4986,Credit Card
+1299,1299,6103,Mobile Money
+1300,1300,6290,Credit Card
+1301,1301,4315,Credit Card
+1302,1302,7050,PayPal
+1303,1303,8871,Credit Card
+1304,1304,6804,Bank Transfer
+1305,1305,4548,Bank Transfer
+1306,1306,1126,Credit Card
+1307,1307,7436,PayPal
+1308,1308,7010,Bank Transfer
+1309,1309,271,PayPal
+1310,1310,229,Bank Transfer
+1311,1311,5390,Mobile Money
+1312,1312,4167,PayPal
+1313,1313,3826,Credit Card
+1314,1314,7557,Mobile Money
+1315,1315,4910,PayPal
+1316,1316,9525,Mobile Money
+1317,1317,3992,Mobile Money
+1318,1318,5159,PayPal
+1319,1319,3990,PayPal
+1320,1320,3442,Mobile Money
+1321,1321,4886,Mobile Money
+1322,1322,2735,PayPal
+1323,1323,5871,Credit Card
+1324,1324,9644,Bank Transfer
+1325,1325,9137,Credit Card
+1326,1326,2356,Credit Card
+1327,1327,7027,Credit Card
+1328,1328,594,Mobile Money
+1329,1329,2848,Credit Card
+1330,1330,1524,PayPal
+1331,1331,119,Credit Card
+1332,1332,8426,Bank Transfer
+1333,1333,7709,Credit Card
+1334,1334,5773,Mobile Money
+1335,1335,7777,Bank Transfer
+1336,1336,9755,Bank Transfer
+1337,1337,5541,Credit Card
+1338,1338,5019,Bank Transfer
+1339,1339,6978,PayPal
+1340,1340,5072,Bank Transfer
+1341,1341,6704,Credit Card
+1342,1342,745,Mobile Money
+1343,1343,6693,Credit Card
+1344,1344,3348,Mobile Money
+1345,1345,1342,Mobile Money
+1346,1346,3000,Bank Transfer
+1347,1347,7165,Mobile Money
+1348,1348,4444,Credit Card
+1349,1349,70,Mobile Money
+1350,1350,5397,PayPal
+1351,1351,3866,Mobile Money
+1352,1352,6914,Mobile Money
+1353,1353,8430,Credit Card
+1354,1354,7013,Credit Card
+1355,1355,5676,Bank Transfer
+1356,1356,579,Credit Card
+1357,1357,4596,Credit Card
+1358,1358,5779,Mobile Money
+1359,1359,4098,Bank Transfer
+1360,1360,2717,Mobile Money
+1361,1361,585,Mobile Money
+1362,1362,6203,Credit Card
+1363,1363,7893,Bank Transfer
+1364,1364,3045,PayPal
+1365,1365,9662,Mobile Money
+1366,1366,2078,Mobile Money
+1367,1367,2811,Mobile Money
+1368,1368,6623,PayPal
+1369,1369,4621,Mobile Money
+1370,1370,6434,Mobile Money
+1371,1371,9973,PayPal
+1372,1372,7244,Credit Card
+1373,1373,5467,Mobile Money
+1374,1374,7540,PayPal
+1375,1375,4524,Bank Transfer
+1376,1376,2125,Bank Transfer
+1377,1377,8323,Credit Card
+1378,1378,7187,Bank Transfer
+1379,1379,2795,Mobile Money
+1380,1380,2051,Mobile Money
+1381,1381,8136,PayPal
+1382,1382,1567,Credit Card
+1383,1383,3504,Bank Transfer
+1384,1384,6944,Bank Transfer
+1385,1385,5681,Bank Transfer
+1386,1386,9025,Bank Transfer
+1387,1387,6898,PayPal
+1388,1388,759,Mobile Money
+1389,1389,3187,Bank Transfer
+1390,1390,7995,Credit Card
+1391,1391,6159,Mobile Money
+1392,1392,5397,Bank Transfer
+1393,1393,3567,Bank Transfer
+1394,1394,6550,Credit Card
+1395,1395,4621,Mobile Money
+1396,1396,4993,PayPal
+1397,1397,9368,PayPal
+1398,1398,6351,PayPal
+1399,1399,2040,Mobile Money
+1400,1400,5145,Mobile Money
+1401,1401,9164,PayPal
+1402,1402,1144,Credit Card
+1403,1403,7799,PayPal
+1404,1404,4041,PayPal
+1405,1405,3166,Mobile Money
+1406,1406,6382,Credit Card
+1407,1407,1549,Mobile Money
+1408,1408,2689,Credit Card
+1409,1409,6968,Credit Card
+1410,1410,838,PayPal
+1411,1411,1641,Credit Card
+1412,1412,1024,Bank Transfer
+1413,1413,2101,Credit Card
+1414,1414,933,Mobile Money
+1415,1415,4281,Mobile Money
+1416,1416,2620,Bank Transfer
+1417,1417,7881,Bank Transfer
+1418,1418,9375,PayPal
+1419,1419,6512,Mobile Money
+1420,1420,8402,Mobile Money
+1421,1421,6755,Bank Transfer
+1422,1422,7458,Credit Card
+1423,1423,801,Mobile Money
+1424,1424,2845,Mobile Money
+1425,1425,965,PayPal
+1426,1426,9172,Mobile Money
+1427,1427,5183,Bank Transfer
+1428,1428,4333,Mobile Money
+1429,1429,506,Mobile Money
+1430,1430,3642,Mobile Money
+1431,1431,7167,Credit Card
+1432,1432,4891,Mobile Money
+1433,1433,5081,Bank Transfer
+1434,1434,2671,Mobile Money
+1435,1435,927,Credit Card
+1436,1436,8150,PayPal
+1437,1437,3025,Bank Transfer
+1438,1438,5061,Bank Transfer
+1439,1439,8681,PayPal
+1440,1440,9816,PayPal
+1441,1441,4747,Bank Transfer
+1442,1442,5085,Bank Transfer
+1443,1443,3596,PayPal
+1444,1444,6991,Mobile Money
+1445,1445,529,Bank Transfer
+1446,1446,4099,Credit Card
+1447,1447,9385,Mobile Money
+1448,1448,2581,PayPal
+1449,1449,1486,PayPal
+1450,1450,535,Mobile Money
+1451,1451,3102,Bank Transfer
+1452,1452,5988,PayPal
+1453,1453,7516,Mobile Money
+1454,1454,9683,Mobile Money
+1455,1455,6630,PayPal
+1456,1456,9835,PayPal
+1457,1457,7655,Mobile Money
+1458,1458,3839,Credit Card
+1459,1459,9666,Bank Transfer
+1460,1460,259,Mobile Money
+1461,1461,854,PayPal
+1462,1462,1447,Credit Card
+1463,1463,1918,Mobile Money
+1464,1464,7485,Bank Transfer
+1465,1465,7106,Mobile Money
+1466,1466,2261,Credit Card
+1467,1467,8744,PayPal
+1468,1468,7198,PayPal
+1469,1469,1728,Credit Card
+1470,1470,9376,Bank Transfer
+1471,1471,3195,Mobile Money
+1472,1472,7153,Credit Card
+1473,1473,4280,Bank Transfer
+1474,1474,9807,Bank Transfer
+1475,1475,2559,Bank Transfer
+1476,1476,9156,Bank Transfer
+1477,1477,7708,Bank Transfer
+1478,1478,7331,PayPal
+1479,1479,889,Mobile Money
+1480,1480,1334,PayPal
+1481,1481,4587,Credit Card
+1482,1482,5206,Bank Transfer
+1483,1483,4119,PayPal
+1484,1484,488,PayPal
+1485,1485,8104,Bank Transfer
+1486,1486,5647,Bank Transfer
+1487,1487,9104,Credit Card
+1488,1488,6674,Bank Transfer
+1489,1489,1195,Bank Transfer
+1490,1490,998,Credit Card
+1491,1491,6506,Credit Card
+1492,1492,5579,Credit Card
+1493,1493,243,PayPal
+1494,1494,2410,PayPal
+1495,1495,2105,PayPal
+1496,1496,1492,PayPal
+1497,1497,368,PayPal
+1498,1498,4430,Bank Transfer
+1499,1499,2210,PayPal
+1500,1500,9959,PayPal
+1501,1501,6532,PayPal
+1502,1502,1978,Credit Card
+1503,1503,2328,PayPal
+1504,1504,6315,Bank Transfer
+1505,1505,7773,Mobile Money
+1506,1506,1746,PayPal
+1507,1507,5469,Mobile Money
+1508,1508,4894,Mobile Money
+1509,1509,9445,Mobile Money
+1510,1510,8581,PayPal
+1511,1511,9003,Credit Card
+1512,1512,4716,Mobile Money
+1513,1513,7458,Credit Card
+1514,1514,6819,Mobile Money
+1515,1515,4394,PayPal
+1516,1516,7290,Credit Card
+1517,1517,8388,Credit Card
+1518,1518,716,PayPal
+1519,1519,3400,Credit Card
+1520,1520,3300,Bank Transfer
+1521,1521,3734,Credit Card
+1522,1522,7592,Bank Transfer
+1523,1523,1002,Bank Transfer
+1524,1524,6697,Mobile Money
+1525,1525,9805,Mobile Money
+1526,1526,473,Mobile Money
+1527,1527,5055,Credit Card
+1528,1528,8053,Credit Card
+1529,1529,1594,Bank Transfer
+1530,1530,7695,Mobile Money
+1531,1531,9651,Bank Transfer
+1532,1532,2395,Bank Transfer
+1533,1533,280,Mobile Money
+1534,1534,4392,Mobile Money
+1535,1535,1214,PayPal
+1536,1536,2177,Bank Transfer
+1537,1537,4151,Bank Transfer
+1538,1538,1789,PayPal
+1539,1539,481,Mobile Money
+1540,1540,6297,PayPal
+1541,1541,7504,Bank Transfer
+1542,1542,9642,Mobile Money
+1543,1543,3556,Credit Card
+1544,1544,92,PayPal
+1545,1545,5609,Credit Card
+1546,1546,7173,Bank Transfer
+1547,1547,2177,Bank Transfer
+1548,1548,576,Mobile Money
+1549,1549,7582,Bank Transfer
+1550,1550,6917,Credit Card
+1551,1551,4365,Mobile Money
+1552,1552,3989,Credit Card
+1553,1553,7832,Credit Card
+1554,1554,3325,Mobile Money
+1555,1555,63,PayPal
+1556,1556,3705,PayPal
+1557,1557,1219,PayPal
+1558,1558,4441,Bank Transfer
+1559,1559,3844,Mobile Money
+1560,1560,4976,Bank Transfer
+1561,1561,9361,Mobile Money
+1562,1562,3584,Bank Transfer
+1563,1563,6581,Mobile Money
+1564,1564,4483,Bank Transfer
+1565,1565,4195,Credit Card
+1566,1566,2723,PayPal
+1567,1567,5409,Mobile Money
+1568,1568,1863,PayPal
+1569,1569,2885,Mobile Money
+1570,1570,9961,Mobile Money
+1571,1571,5562,Bank Transfer
+1572,1572,1462,PayPal
+1573,1573,739,Credit Card
+1574,1574,7573,Bank Transfer
+1575,1575,3136,Bank Transfer
+1576,1576,7110,Mobile Money
+1577,1577,2056,Mobile Money
+1578,1578,3201,Credit Card
+1579,1579,6579,Credit Card
+1580,1580,281,Bank Transfer
+1581,1581,8004,Mobile Money
+1582,1582,8802,Bank Transfer
+1583,1583,9627,Bank Transfer
+1584,1584,4864,PayPal
+1585,1585,6050,Credit Card
+1586,1586,220,Mobile Money
+1587,1587,2544,Credit Card
+1588,1588,4712,Bank Transfer
+1589,1589,9010,Credit Card
+1590,1590,5463,Mobile Money
+1591,1591,8978,PayPal
+1592,1592,4460,Bank Transfer
+1593,1593,3299,Credit Card
+1594,1594,5926,Bank Transfer
+1595,1595,9282,PayPal
+1596,1596,6508,Bank Transfer
+1597,1597,5774,Credit Card
+1598,1598,1615,Credit Card
+1599,1599,9531,PayPal
+1600,1600,7974,Credit Card
+1601,1601,6412,PayPal
+1602,1602,8987,Mobile Money
+1603,1603,4339,Mobile Money
+1604,1604,4550,Bank Transfer
+1605,1605,224,Bank Transfer
+1606,1606,3100,Bank Transfer
+1607,1607,4481,PayPal
+1608,1608,1127,Mobile Money
+1609,1609,7994,Bank Transfer
+1610,1610,3947,PayPal
+1611,1611,9577,Mobile Money
+1612,1612,7912,Bank Transfer
+1613,1613,8766,Credit Card
+1614,1614,7702,PayPal
+1615,1615,739,Bank Transfer
+1616,1616,5241,PayPal
+1617,1617,4646,Bank Transfer
+1618,1618,7442,PayPal
+1619,1619,7638,Mobile Money
+1620,1620,8692,Bank Transfer
+1621,1621,7864,Bank Transfer
+1622,1622,3518,Bank Transfer
+1623,1623,2933,PayPal
+1624,1624,7498,Bank Transfer
+1625,1625,4870,Credit Card
+1626,1626,8701,Credit Card
+1627,1627,7418,PayPal
+1628,1628,9879,Mobile Money
+1629,1629,5744,PayPal
+1630,1630,8874,Mobile Money
+1631,1631,4262,Bank Transfer
+1632,1632,1882,Credit Card
+1633,1633,9619,Credit Card
+1634,1634,1592,PayPal
+1635,1635,3984,PayPal
+1636,1636,2155,PayPal
+1637,1637,9740,Bank Transfer
+1638,1638,898,Credit Card
+1639,1639,9300,Mobile Money
+1640,1640,6990,Credit Card
+1641,1641,5689,Bank Transfer
+1642,1642,6060,Credit Card
+1643,1643,8973,PayPal
+1644,1644,9745,PayPal
+1645,1645,6150,PayPal
+1646,1646,392,PayPal
+1647,1647,6920,Bank Transfer
+1648,1648,4186,Bank Transfer
+1649,1649,6907,PayPal
+1650,1650,8094,Mobile Money
+1651,1651,5314,PayPal
+1652,1652,8659,Credit Card
+1653,1653,4355,Bank Transfer
+1654,1654,3360,Bank Transfer
+1655,1655,1876,Credit Card
+1656,1656,8411,PayPal
+1657,1657,8105,Bank Transfer
+1658,1658,9122,PayPal
+1659,1659,3229,Bank Transfer
+1660,1660,8913,Mobile Money
+1661,1661,7889,PayPal
+1662,1662,2505,Bank Transfer
+1663,1663,3399,PayPal
+1664,1664,5889,Mobile Money
+1665,1665,7064,Mobile Money
+1666,1666,155,PayPal
+1667,1667,4872,Mobile Money
+1668,1668,3709,Bank Transfer
+1669,1669,7750,Credit Card
+1670,1670,873,Credit Card
+1671,1671,1053,Bank Transfer
+1672,1672,4895,PayPal
+1673,1673,542,Mobile Money
+1674,1674,3671,Mobile Money
+1675,1675,844,PayPal
+1676,1676,1979,Mobile Money
+1677,1677,9502,Mobile Money
+1678,1678,1700,Credit Card
+1679,1679,9830,Mobile Money
+1680,1680,731,Bank Transfer
+1681,1681,5955,Bank Transfer
+1682,1682,9753,Credit Card
+1683,1683,4624,Credit Card
+1684,1684,5258,Bank Transfer
+1685,1685,8179,Mobile Money
+1686,1686,922,Bank Transfer
+1687,1687,929,Bank Transfer
+1688,1688,5260,PayPal
+1689,1689,3865,Bank Transfer
+1690,1690,9990,Bank Transfer
+1691,1691,5643,Credit Card
+1692,1692,5861,Credit Card
+1693,1693,6799,Bank Transfer
+1694,1694,7218,Bank Transfer
+1695,1695,6543,Credit Card
+1696,1696,9686,Credit Card
+1697,1697,1436,PayPal
+1698,1698,4820,PayPal
+1699,1699,2458,Bank Transfer
+1700,1700,428,Bank Transfer
+1701,1701,8554,Mobile Money
+1702,1702,2370,Credit Card
+1703,1703,9969,Mobile Money
+1704,1704,7137,Bank Transfer
+1705,1705,3340,PayPal
+1706,1706,6638,Mobile Money
+1707,1707,3820,PayPal
+1708,1708,114,Credit Card
+1709,1709,6473,Bank Transfer
+1710,1710,4624,Bank Transfer
+1711,1711,3490,PayPal
+1712,1712,9881,Mobile Money
+1713,1713,5028,Mobile Money
+1714,1714,7109,Credit Card
+1715,1715,3937,Mobile Money
+1716,1716,657,Mobile Money
+1717,1717,150,PayPal
+1718,1718,7987,Mobile Money
+1719,1719,7230,PayPal
+1720,1720,8452,PayPal
+1721,1721,4948,Mobile Money
+1722,1722,8872,Credit Card
+1723,1723,5319,Mobile Money
+1724,1724,2175,Mobile Money
+1725,1725,4506,PayPal
+1726,1726,288,PayPal
+1727,1727,9908,PayPal
+1728,1728,5786,Credit Card
+1729,1729,4314,Mobile Money
+1730,1730,9288,Bank Transfer
+1731,1731,4650,PayPal
+1732,1732,2060,PayPal
+1733,1733,886,Mobile Money
+1734,1734,3660,Bank Transfer
+1735,1735,3787,Mobile Money
+1736,1736,517,PayPal
+1737,1737,7054,Bank Transfer
+1738,1738,6739,PayPal
+1739,1739,27,PayPal
+1740,1740,1260,Mobile Money
+1741,1741,2255,PayPal
+1742,1742,8600,Bank Transfer
+1743,1743,6222,Credit Card
+1744,1744,3763,Mobile Money
+1745,1745,8627,Credit Card
+1746,1746,3544,Bank Transfer
+1747,1747,7768,Bank Transfer
+1748,1748,4622,Credit Card
+1749,1749,2519,Credit Card
+1750,1750,6143,Bank Transfer
+1751,1751,1861,Mobile Money
+1752,1752,6689,Credit Card
+1753,1753,6847,Mobile Money
+1754,1754,8174,Bank Transfer
+1755,1755,6335,Bank Transfer
+1756,1756,7712,PayPal
+1757,1757,7677,PayPal
+1758,1758,5832,Bank Transfer
+1759,1759,4264,PayPal
+1760,1760,5872,PayPal
+1761,1761,344,Credit Card
+1762,1762,7233,PayPal
+1763,1763,3238,Mobile Money
+1764,1764,1360,Credit Card
+1765,1765,7047,PayPal
+1766,1766,3877,PayPal
+1767,1767,1217,Credit Card
+1768,1768,151,PayPal
+1769,1769,9795,Bank Transfer
+1770,1770,5681,Mobile Money
+1771,1771,1752,PayPal
+1772,1772,5191,Mobile Money
+1773,1773,2882,Credit Card
+1774,1774,8105,Bank Transfer
+1775,1775,170,Credit Card
+1776,1776,3276,Credit Card
+1777,1777,5334,Bank Transfer
+1778,1778,7559,PayPal
+1779,1779,3485,Credit Card
+1780,1780,4156,Credit Card
+1781,1781,4430,Mobile Money
+1782,1782,4330,Mobile Money
+1783,1783,7493,Bank Transfer
+1784,1784,1600,Bank Transfer
+1785,1785,7165,Mobile Money
+1786,1786,6929,PayPal
+1787,1787,4415,Mobile Money
+1788,1788,8400,Credit Card
+1789,1789,4509,PayPal
+1790,1790,2530,PayPal
+1791,1791,5685,PayPal
+1792,1792,2283,Bank Transfer
+1793,1793,5703,PayPal
+1794,1794,2780,Mobile Money
+1795,1795,6702,PayPal
+1796,1796,980,Mobile Money
+1797,1797,3608,Credit Card
+1798,1798,641,Bank Transfer
+1799,1799,7337,Mobile Money
+1800,1800,1097,Bank Transfer
+1801,1801,4996,Credit Card
+1802,1802,5581,Mobile Money
+1803,1803,8202,Bank Transfer
+1804,1804,5857,PayPal
+1805,1805,4437,PayPal
+1806,1806,5186,PayPal
+1807,1807,3179,Credit Card
+1808,1808,5102,PayPal
+1809,1809,4536,Bank Transfer
+1810,1810,5807,Credit Card
+1811,1811,6209,Bank Transfer
+1812,1812,2885,Credit Card
+1813,1813,6575,Bank Transfer
+1814,1814,4836,PayPal
+1815,1815,4264,Credit Card
+1816,1816,5261,PayPal
+1817,1817,8466,Credit Card
+1818,1818,1342,PayPal
+1819,1819,3295,Bank Transfer
+1820,1820,3213,Mobile Money
+1821,1821,6516,Credit Card
+1822,1822,9403,Mobile Money
+1823,1823,2143,Mobile Money
+1824,1824,8000,Bank Transfer
+1825,1825,5159,PayPal
+1826,1826,9262,Bank Transfer
+1827,1827,5747,Credit Card
+1828,1828,686,Mobile Money
+1829,1829,3764,Bank Transfer
+1830,1830,7305,Mobile Money
+1831,1831,6908,Mobile Money
+1832,1832,8639,Bank Transfer
+1833,1833,5421,PayPal
+1834,1834,3810,Credit Card
+1835,1835,5232,Mobile Money
+1836,1836,3005,Bank Transfer
+1837,1837,8974,PayPal
+1838,1838,7879,Mobile Money
+1839,1839,7882,Credit Card
+1840,1840,6074,Credit Card
+1841,1841,2761,PayPal
+1842,1842,6207,Credit Card
+1843,1843,1257,Bank Transfer
+1844,1844,3083,PayPal
+1845,1845,423,Mobile Money
+1846,1846,1065,Bank Transfer
+1847,1847,4959,Mobile Money
+1848,1848,994,Credit Card
+1849,1849,2108,Mobile Money
+1850,1850,3497,Bank Transfer
+1851,1851,4038,Credit Card
+1852,1852,4563,PayPal
+1853,1853,358,Mobile Money
+1854,1854,5757,Credit Card
+1855,1855,2115,Mobile Money
+1856,1856,1981,Mobile Money
+1857,1857,5884,PayPal
+1858,1858,4894,PayPal
+1859,1859,3724,PayPal
+1860,1860,4751,Bank Transfer
+1861,1861,4469,Credit Card
+1862,1862,7415,Credit Card
+1863,1863,6884,Bank Transfer
+1864,1864,9143,Mobile Money
+1865,1865,8520,Mobile Money
+1866,1866,5627,Credit Card
+1867,1867,7311,Mobile Money
+1868,1868,6507,PayPal
+1869,1869,1243,Mobile Money
+1870,1870,6632,Mobile Money
+1871,1871,6976,Mobile Money
+1872,1872,4756,Credit Card
+1873,1873,1694,PayPal
+1874,1874,9836,Mobile Money
+1875,1875,5628,Mobile Money
+1876,1876,3971,Credit Card
+1877,1877,8028,Mobile Money
+1878,1878,1672,PayPal
+1879,1879,3660,Bank Transfer
+1880,1880,35,Mobile Money
+1881,1881,4360,PayPal
+1882,1882,2295,Mobile Money
+1883,1883,3599,PayPal
+1884,1884,7723,Mobile Money
+1885,1885,3627,PayPal
+1886,1886,4995,Credit Card
+1887,1887,774,Bank Transfer
+1888,1888,6019,Credit Card
+1889,1889,979,PayPal
+1890,1890,1057,Mobile Money
+1891,1891,9957,Mobile Money
+1892,1892,9416,Bank Transfer
+1893,1893,4867,Bank Transfer
+1894,1894,9962,Mobile Money
+1895,1895,595,Credit Card
+1896,1896,2460,Mobile Money
+1897,1897,9939,Mobile Money
+1898,1898,3761,Credit Card
+1899,1899,1151,Bank Transfer
+1900,1900,1329,PayPal
+1901,1901,5392,Credit Card
+1902,1902,8319,PayPal
+1903,1903,2588,Mobile Money
+1904,1904,7998,PayPal
+1905,1905,8009,Bank Transfer
+1906,1906,1879,Mobile Money
+1907,1907,8610,PayPal
+1908,1908,5673,Mobile Money
+1909,1909,4355,PayPal
+1910,1910,863,Mobile Money
+1911,1911,875,Bank Transfer
+1912,1912,9183,Credit Card
+1913,1913,2776,PayPal
+1914,1914,9367,Bank Transfer
+1915,1915,1674,Bank Transfer
+1916,1916,1610,PayPal
+1917,1917,4706,PayPal
+1918,1918,546,Mobile Money
+1919,1919,9164,Bank Transfer
+1920,1920,1958,PayPal
+1921,1921,8307,PayPal
+1922,1922,922,Mobile Money
+1923,1923,7514,PayPal
+1924,1924,5265,Bank Transfer
+1925,1925,7465,PayPal
+1926,1926,4161,PayPal
+1927,1927,3612,Credit Card
+1928,1928,2528,Bank Transfer
+1929,1929,6509,Mobile Money
+1930,1930,1281,Credit Card
+1931,1931,830,Mobile Money
+1932,1932,7829,Credit Card
+1933,1933,2124,Bank Transfer
+1934,1934,7341,PayPal
+1935,1935,5018,PayPal
+1936,1936,6254,PayPal
+1937,1937,6548,Credit Card
+1938,1938,2188,Credit Card
+1939,1939,3358,Bank Transfer
+1940,1940,2344,Mobile Money
+1941,1941,9675,Bank Transfer
+1942,1942,6501,PayPal
+1943,1943,9736,Credit Card
+1944,1944,8785,Credit Card
+1945,1945,2911,PayPal
+1946,1946,1318,Bank Transfer
+1947,1947,9552,PayPal
+1948,1948,7971,Bank Transfer
+1949,1949,2639,PayPal
+1950,1950,877,Credit Card
+1951,1951,3388,Mobile Money
+1952,1952,6792,Bank Transfer
+1953,1953,9821,PayPal
+1954,1954,3857,Mobile Money
+1955,1955,1291,Mobile Money
+1956,1956,1525,Bank Transfer
+1957,1957,9654,Mobile Money
+1958,1958,6448,Credit Card
+1959,1959,1093,Credit Card
+1960,1960,225,Bank Transfer
+1961,1961,7188,Credit Card
+1962,1962,8613,Credit Card
+1963,1963,7400,PayPal
+1964,1964,6821,Bank Transfer
+1965,1965,2687,Credit Card
+1966,1966,5936,Credit Card
+1967,1967,4745,Credit Card
+1968,1968,8378,PayPal
+1969,1969,7894,Bank Transfer
+1970,1970,758,Credit Card
+1971,1971,1169,Bank Transfer
+1972,1972,3199,PayPal
+1973,1973,9199,Bank Transfer
+1974,1974,5934,Mobile Money
+1975,1975,9244,Credit Card
+1976,1976,1716,PayPal
+1977,1977,6456,Credit Card
+1978,1978,4658,Bank Transfer
+1979,1979,1922,Credit Card
+1980,1980,7674,Mobile Money
+1981,1981,7322,PayPal
+1982,1982,2507,Credit Card
+1983,1983,3635,Bank Transfer
+1984,1984,4699,Mobile Money
+1985,1985,2125,PayPal
+1986,1986,3540,PayPal
+1987,1987,2456,PayPal
+1988,1988,213,Credit Card
+1989,1989,4490,Mobile Money
+1990,1990,3061,Credit Card
+1991,1991,3004,Mobile Money
+1992,1992,3302,PayPal
+1993,1993,9102,Mobile Money
+1994,1994,9322,PayPal
+1995,1995,5369,Bank Transfer
+1996,1996,9480,PayPal
+1997,1997,2801,Mobile Money
+1998,1998,9120,PayPal
+1999,1999,8640,Credit Card
+2000,2000,9667,PayPal

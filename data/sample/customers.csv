@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,city,country
+1,Customer_1,User_1,customer1@gmail.com,Yamoussoukro,Senegal
+2,Customer_2,User_2,customer2@gmail.com,Casablanca,Maroc
+3,Customer_3,User_3,customer3@gmail.com,Abidjan,France
+4,Customer_4,User_4,customer4@gmail.com,Casablanca,Cote d'Ivoire
+5,Customer_5,User_5,customer5@gmail.com,Yamoussoukro,France
+6,Customer_6,User_6,customer6@gmail.com,Casablanca,Senegal
+7,Customer_7,User_7,customer7@gmail.com,Paris,Senegal
+8,Customer_8,User_8,customer8@gmail.com,Abidjan,Senegal
+9,Customer_9,User_9,customer9@gmail.com,Yamoussoukro,Senegal
+10,Customer_10,User_10,customer10@gmail.com,Yamoussoukro,Maroc
+11,Customer_11,User_11,customer11@gmail.com,Casablanca,Maroc
+12,Customer_12,User_12,customer12@gmail.com,Abidjan,Cote d'Ivoire
+13,Customer_13,User_13,customer13@gmail.com,Dakar,Maroc
+14,Customer_14,User_14,customer14@gmail.com,Bouake,Senegal
+15,Customer_15,User_15,customer15@gmail.com,Bouake,Cote d'Ivoire
+16,Customer_16,User_16,customer16@gmail.com,Dakar,Senegal
+17,Customer_17,User_17,customer17@gmail.com,Dakar,Senegal
+18,Customer_18,User_18,customer18@gmail.com,Bouake,Maroc
+19,Customer_19,User_19,customer19@gmail.com,Dakar,Senegal
+20,Customer_20,User_20,customer20@gmail.com,Paris,Cote d'Ivoire
+21,Customer_21,User_21,customer21@gmail.com,Dakar,Senegal
+22,Customer_22,User_22,customer22@gmail.com,Bouake,France
+23,Customer_23,User_23,customer23@gmail.com,Casablanca,France
+24,Customer_24,User_24,customer24@gmail.com,Dakar,Cote d'Ivoire
+25,Customer_25,User_25,customer25@gmail.com,Paris,Cote d'Ivoire
+26,Customer_26,User_26,customer26@gmail.com,Abidjan,Cote d'Ivoire
+27,Customer_27,User_27,customer27@gmail.com,Casablanca,Senegal
+28,Customer_28,User_28,customer28@gmail.com,Abidjan,Senegal
+29,Customer_29,User_29,customer29@gmail.com,Casablanca,Senegal
+30,Customer_30,User_30,customer30@gmail.com,Paris,Senegal
+31,Customer_31,User_31,customer31@gmail.com,Yamoussoukro,Senegal
+32,Customer_32,User_32,customer32@gmail.com,Abidjan,Senegal
+33,Customer_33,User_33,customer33@gmail.com,Abidjan,Senegal
+34,Customer_34,User_34,customer34@gmail.com,Dakar,Cote d'Ivoire
+35,Customer_35,User_35,customer35@gmail.com,Paris,France
+36,Customer_36,User_36,customer36@gmail.com,Dakar,France
+37,Customer_37,User_37,customer37@gmail.com,Casablanca,Maroc
+38,Customer_38,User_38,customer38@gmail.com,Dakar,Maroc
+39,Customer_39,User_39,customer39@gmail.com,Casablanca,Maroc
+40,Customer_40,User_40,customer40@gmail.com,Abidjan,Senegal
+41,Customer_41,User_41,customer41@gmail.com,Abidjan,Cote d'Ivoire
+42,Customer_42,User_42,customer42@gmail.com,Abidjan,Cote d'Ivoire
+43,Customer_43,User_43,customer43@gmail.com,Dakar,Senegal
+44,Customer_44,User_44,customer44@gmail.com,Casablanca,Maroc
+45,Customer_45,User_45,customer45@gmail.com,Casablanca,Maroc
+46,Customer_46,User_46,customer46@gmail.com,Paris,Senegal
+47,Customer_47,User_47,customer47@gmail.com,Bouake,Cote d'Ivoire
+48,Customer_48,User_48,customer48@gmail.com,Casablanca,Cote d'Ivoire
+49,Customer_49,User_49,customer49@gmail.com,Paris,France
+50,Customer_50,User_50,customer50@gmail.com,Dakar,Maroc
+51,Customer_51,User_51,customer51@gmail.com,Dakar,Maroc
+52,Customer_52,User_52,customer52@gmail.com,Dakar,France
+53,Customer_53,User_53,customer53@gmail.com,Casablanca,Cote d'Ivoire
+54,Customer_54,User_54,customer54@gmail.com,Paris,Maroc
+55,Customer_55,User_55,customer55@gmail.com,Paris,France
+56,Customer_56,User_56,customer56@gmail.com,Bouake,Cote d'Ivoire
+57,Customer_57,User_57,customer57@gmail.com,Paris,Maroc
+58,Customer_58,User_58,customer58@gmail.com,Yamoussoukro,Maroc
+59,Customer_59,User_59,customer59@gmail.com,Bouake,France
+60,Customer_60,User_60,customer60@gmail.com,Yamoussoukro,Maroc
+61,Customer_61,User_61,customer61@gmail.com,Abidjan,Cote d'Ivoire
+62,Customer_62,User_62,customer62@gmail.com,Bouake,Maroc
+63,Customer_63,User_63,customer63@gmail.com,Abidjan,Cote d'Ivoire
+64,Customer_64,User_64,customer64@gmail.com,Casablanca,Maroc
+65,Customer_65,User_65,customer65@gmail.com,Yamoussoukro,France
+66,Customer_66,User_66,customer66@gmail.com,Bouake,Cote d'Ivoire
+67,Customer_67,User_67,customer67@gmail.com,Abidjan,Cote d'Ivoire
+68,Customer_68,User_68,customer68@gmail.com,Paris,Senegal
+69,Customer_69,User_69,customer69@gmail.com,Yamoussoukro,Senegal
+70,Customer_70,User_70,customer70@gmail.com,Yamoussoukro,France
+71,Customer_71,User_71,customer71@gmail.com,Paris,Senegal
+72,Customer_72,User_72,customer72@gmail.com,Yamoussoukro,Cote d'Ivoire
+73,Customer_73,User_73,customer73@gmail.com,Abidjan,Cote d'Ivoire
+74,Customer_74,User_74,customer74@gmail.com,Abidjan,France
+75,Customer_75,User_75,customer75@gmail.com,Bouake,Maroc
+76,Customer_76,User_76,customer76@gmail.com,Dakar,Cote d'Ivoire
+77,Customer_77,User_77,customer77@gmail.com,Yamoussoukro,Senegal
+78,Customer_78,User_78,customer78@gmail.com,Bouake,Senegal
+79,Customer_79,User_79,customer79@gmail.com,Dakar,Maroc
+80,Customer_80,User_80,customer80@gmail.com,Bouake,France
+81,Customer_81,User_81,customer81@gmail.com,Paris,Senegal
+82,Customer_82,User_82,customer82@gmail.com,Paris,Maroc
+83,Customer_83,User_83,customer83@gmail.com,Casablanca,France
+84,Customer_84,User_84,customer84@gmail.com,Abidjan,Senegal
+85,Customer_85,User_85,customer85@gmail.com,Yamoussoukro,France
+86,Customer_86,User_86,customer86@gmail.com,Casablanca,France
+87,Customer_87,User_87,customer87@gmail.com,Yamoussoukro,Cote d'Ivoire
+88,Customer_88,User_88,customer88@gmail.com,Abidjan,Senegal
+89,Customer_89,User_89,customer89@gmail.com,Paris,Senegal
+90,Customer_90,User_90,customer90@gmail.com,Bouake,Cote d'Ivoire
+91,Customer_91,User_91,customer91@gmail.com,Casablanca,Maroc
+92,Customer_92,User_92,customer92@gmail.com,Paris,France
+93,Customer_93,User_93,customer93@gmail.com,Abidjan,Senegal
+94,Customer_94,User_94,customer94@gmail.com,Paris,France
+95,Customer_95,User_95,customer95@gmail.com,Bouake,Maroc
+96,Customer_96,User_96,customer96@gmail.com,Yamoussoukro,Cote d'Ivoire
+97,Customer_97,User_97,customer97@gmail.com,Paris,Cote d'Ivoire
+98,Customer_98,User_98,customer98@gmail.com,Casablanca,Senegal
+99,Customer_99,User_99,customer99@gmail.com,Casablanca,France
+100,Customer_100,User_100,customer100@gmail.com,Paris,Cote d'Ivoire
+101,Customer_101,User_101,customer101@gmail.com,Dakar,France
+102,Customer_102,User_102,customer102@gmail.com,Casablanca,Maroc
+103,Customer_103,User_103,customer103@gmail.com,Abidjan,France
+104,Customer_104,User_104,customer104@gmail.com,Bouake,Senegal
+105,Customer_105,User_105,customer105@gmail.com,Paris,Maroc
+106,Customer_106,User_106,customer106@gmail.com,Abidjan,Cote d'Ivoire
+107,Customer_107,User_107,customer107@gmail.com,Casablanca,Cote d'Ivoire
+108,Customer_108,User_108,customer108@gmail.com,Bouake,Cote d'Ivoire
+109,Customer_109,User_109,customer109@gmail.com,Dakar,Senegal
+110,Customer_110,User_110,customer110@gmail.com,Yamoussoukro,France
+111,Customer_111,User_111,customer111@gmail.com,Paris,Maroc
+112,Customer_112,User_112,customer112@gmail.com,Abidjan,Senegal
+113,Customer_113,User_113,customer113@gmail.com,Bouake,Maroc
+114,Customer_114,User_114,customer114@gmail.com,Abidjan,France
+115,Customer_115,User_115,customer115@gmail.com,Bouake,Cote d'Ivoire
+116,Customer_116,User_116,customer116@gmail.com,Bouake,France
+117,Customer_117,User_117,customer117@gmail.com,Dakar,France
+118,Customer_118,User_118,customer118@gmail.com,Yamoussoukro,Maroc
+119,Customer_119,User_119,customer119@gmail.com,Abidjan,Maroc
+120,Customer_120,User_120,customer120@gmail.com,Abidjan,Maroc
+121,Customer_121,User_121,customer121@gmail.com,Paris,France
+122,Customer_122,User_122,customer122@gmail.com,Casablanca,France
+123,Customer_123,User_123,customer123@gmail.com,Yamoussoukro,Cote d'Ivoire
+124,Customer_124,User_124,customer124@gmail.com,Dakar,Maroc
+125,Customer_125,User_125,customer125@gmail.com,Casablanca,Maroc
+126,Customer_126,User_126,customer126@gmail.com,Yamoussoukro,Senegal
+127,Customer_127,User_127,customer127@gmail.com,Yamoussoukro,Maroc
+128,Customer_128,User_128,customer128@gmail.com,Bouake,Maroc
+129,Customer_129,User_129,customer129@gmail.com,Abidjan,France
+130,Customer_130,User_130,customer130@gmail.com,Casablanca,Senegal
+131,Customer_131,User_131,customer131@gmail.com,Dakar,Cote d'Ivoire
+132,Customer_132,User_132,customer132@gmail.com,Dakar,Senegal
+133,Customer_133,User_133,customer133@gmail.com,Dakar,Senegal
+134,Customer_134,User_134,customer134@gmail.com,Yamoussoukro,Maroc
+135,Customer_135,User_135,customer135@gmail.com,Yamoussoukro,Maroc
+136,Customer_136,User_136,customer136@gmail.com,Casablanca,France
+137,Customer_137,User_137,customer137@gmail.com,Yamoussoukro,Maroc
+138,Customer_138,User_138,customer138@gmail.com,Paris,Maroc
+139,Customer_139,User_139,customer139@gmail.com,Dakar,France
+140,Customer_140,User_140,customer140@gmail.com,Paris,France
+141,Customer_141,User_141,customer141@gmail.com,Yamoussoukro,Cote d'Ivoire
+142,Customer_142,User_142,customer142@gmail.com,Bouake,Senegal
+143,Customer_143,User_143,customer143@gmail.com,Paris,France
+144,Customer_144,User_144,customer144@gmail.com,Dakar,Cote d'Ivoire
+145,Customer_145,User_145,customer145@gmail.com,Yamoussoukro,Senegal
+146,Customer_146,User_146,customer146@gmail.com,Paris,France
+147,Customer_147,User_147,customer147@gmail.com,Casablanca,Cote d'Ivoire
+148,Customer_148,User_148,customer148@gmail.com,Bouake,Senegal
+149,Customer_149,User_149,customer149@gmail.com,Casablanca,Cote d'Ivoire
+150,Customer_150,User_150,customer150@gmail.com,Dakar,France
+151,Customer_151,User_151,customer151@gmail.com,Dakar,Cote d'Ivoire
+152,Customer_152,User_152,customer152@gmail.com,Paris,Senegal
+153,Customer_153,User_153,customer153@gmail.com,Bouake,Maroc
+154,Customer_154,User_154,customer154@gmail.com,Dakar,Cote d'Ivoire
+155,Customer_155,User_155,customer155@gmail.com,Casablanca,Cote d'Ivoire
+156,Customer_156,User_156,customer156@gmail.com,Abidjan,France
+157,Customer_157,User_157,customer157@gmail.com,Abidjan,Senegal
+158,Customer_158,User_158,customer158@gmail.com,Paris,France
+159,Customer_159,User_159,customer159@gmail.com,Bouake,France
+160,Customer_160,User_160,customer160@gmail.com,Abidjan,Maroc
+161,Customer_161,User_161,customer161@gmail.com,Paris,Cote d'Ivoire
+162,Customer_162,User_162,customer162@gmail.com,Yamoussoukro,France
+163,Customer_163,User_163,customer163@gmail.com,Bouake,Cote d'Ivoire
+164,Customer_164,User_164,customer164@gmail.com,Bouake,Cote d'Ivoire
+165,Customer_165,User_165,customer165@gmail.com,Abidjan,France
+166,Customer_166,User_166,customer166@gmail.com,Casablanca,France
+167,Customer_167,User_167,customer167@gmail.com,Casablanca,Cote d'Ivoire
+168,Customer_168,User_168,customer168@gmail.com,Yamoussoukro,Cote d'Ivoire
+169,Customer_169,User_169,customer169@gmail.com,Yamoussoukro,France
+170,Customer_170,User_170,customer170@gmail.com,Casablanca,France
+171,Customer_171,User_171,customer171@gmail.com,Yamoussoukro,France
+172,Customer_172,User_172,customer172@gmail.com,Bouake,Maroc
+173,Customer_173,User_173,customer173@gmail.com,Casablanca,France
+174,Customer_174,User_174,customer174@gmail.com,Paris,France
+175,Customer_175,User_175,customer175@gmail.com,Paris,France
+176,Customer_176,User_176,customer176@gmail.com,Yamoussoukro,Cote d'Ivoire
+177,Customer_177,User_177,customer177@gmail.com,Yamoussoukro,Senegal
+178,Customer_178,User_178,customer178@gmail.com,Casablanca,Senegal
+179,Customer_179,User_179,customer179@gmail.com,Abidjan,Senegal
+180,Customer_180,User_180,customer180@gmail.com,Paris,France
+181,Customer_181,User_181,customer181@gmail.com,Paris,Cote d'Ivoire
+182,Customer_182,User_182,customer182@gmail.com,Dakar,France
+183,Customer_183,User_183,customer183@gmail.com,Abidjan,France
+184,Customer_184,User_184,customer184@gmail.com,Bouake,Cote d'Ivoire
+185,Customer_185,User_185,customer185@gmail.com,Bouake,Senegal
+186,Customer_186,User_186,customer186@gmail.com,Dakar,France
+187,Customer_187,User_187,customer187@gmail.com,Casablanca,Cote d'Ivoire
+188,Customer_188,User_188,customer188@gmail.com,Paris,Maroc
+189,Customer_189,User_189,customer189@gmail.com,Casablanca,Senegal
+190,Customer_190,User_190,customer190@gmail.com,Abidjan,Cote d'Ivoire
+191,Customer_191,User_191,customer191@gmail.com,Abidjan,Cote d'Ivoire
+192,Customer_192,User_192,customer192@gmail.com,Yamoussoukro,Senegal
+193,Customer_193,User_193,customer193@gmail.com,Paris,France
+194,Customer_194,User_194,customer194@gmail.com,Bouake,Senegal
+195,Customer_195,User_195,customer195@gmail.com,Abidjan,Maroc
+196,Customer_196,User_196,customer196@gmail.com,Dakar,Maroc
+197,Customer_197,User_197,customer197@gmail.com,Abidjan,Maroc
+198,Customer_198,User_198,customer198@gmail.com,Paris,Senegal
+199,Customer_199,User_199,customer199@gmail.com,Yamoussoukro,Maroc
+200,Customer_200,User_200,customer200@gmail.com,Yamoussoukro,Cote d'Ivoire
+201,Customer_201,User_201,customer201@gmail.com,Dakar,Senegal
+202,Customer_202,User_202,customer202@gmail.com,Dakar,Maroc
+203,Customer_203,User_203,customer203@gmail.com,Yamoussoukro,Maroc
+204,Customer_204,User_204,customer204@gmail.com,Yamoussoukro,Senegal
+205,Customer_205,User_205,customer205@gmail.com,Yamoussoukro,Cote d'Ivoire
+206,Customer_206,User_206,customer206@gmail.com,Dakar,Maroc
+207,Customer_207,User_207,customer207@gmail.com,Bouake,Senegal
+208,Customer_208,User_208,customer208@gmail.com,Bouake,Senegal
+209,Customer_209,User_209,customer209@gmail.com,Bouake,Cote d'Ivoire
+210,Customer_210,User_210,customer210@gmail.com,Yamoussoukro,Maroc
+211,Customer_211,User_211,customer211@gmail.com,Bouake,Senegal
+212,Customer_212,User_212,customer212@gmail.com,Dakar,Senegal
+213,Customer_213,User_213,customer213@gmail.com,Abidjan,Cote d'Ivoire
+214,Customer_214,User_214,customer214@gmail.com,Paris,Cote d'Ivoire
+215,Customer_215,User_215,customer215@gmail.com,Bouake,France
+216,Customer_216,User_216,customer216@gmail.com,Yamoussoukro,France
+217,Customer_217,User_217,customer217@gmail.com,Paris,France
+218,Customer_218,User_218,customer218@gmail.com,Yamoussoukro,Senegal
+219,Customer_219,User_219,customer219@gmail.com,Casablanca,Senegal
+220,Customer_220,User_220,customer220@gmail.com,Bouake,Cote d'Ivoire
+221,Customer_221,User_221,customer221@gmail.com,Abidjan,Senegal
+222,Customer_222,User_222,customer222@gmail.com,Bouake,Cote d'Ivoire
+223,Customer_223,User_223,customer223@gmail.com,Yamoussoukro,France
+224,Customer_224,User_224,customer224@gmail.com,Bouake,Maroc
+225,Customer_225,User_225,customer225@gmail.com,Abidjan,Senegal
+226,Customer_226,User_226,customer226@gmail.com,Dakar,Senegal
+227,Customer_227,User_227,customer227@gmail.com,Paris,France
+228,Customer_228,User_228,customer228@gmail.com,Bouake,Maroc
+229,Customer_229,User_229,customer229@gmail.com,Paris,France
+230,Customer_230,User_230,customer230@gmail.com,Abidjan,Senegal
+231,Customer_231,User_231,customer231@gmail.com,Yamoussoukro,Maroc
+232,Customer_232,User_232,customer232@gmail.com,Abidjan,Senegal
+233,Customer_233,User_233,customer233@gmail.com,Abidjan,Cote d'Ivoire
+234,Customer_234,User_234,customer234@gmail.com,Dakar,Senegal
+235,Customer_235,User_235,customer235@gmail.com,Bouake,Cote d'Ivoire
+236,Customer_236,User_236,customer236@gmail.com,Bouake,Maroc
+237,Customer_237,User_237,customer237@gmail.com,Abidjan,France
+238,Customer_238,User_238,customer238@gmail.com,Abidjan,Cote d'Ivoire
+239,Customer_239,User_239,customer239@gmail.com,Abidjan,Cote d'Ivoire
+240,Customer_240,User_240,customer240@gmail.com,Bouake,Maroc
+241,Customer_241,User_241,customer241@gmail.com,Abidjan,Cote d'Ivoire
+242,Customer_242,User_242,customer242@gmail.com,Casablanca,Maroc
+243,Customer_243,User_243,customer243@gmail.com,Paris,France
+244,Customer_244,User_244,customer244@gmail.com,Yamoussoukro,Senegal
+245,Customer_245,User_245,customer245@gmail.com,Yamoussoukro,Senegal
+246,Customer_246,User_246,customer246@gmail.com,Dakar,France
+247,Customer_247,User_247,customer247@gmail.com,Casablanca,Maroc
+248,Customer_248,User_248,customer248@gmail.com,Paris,Maroc
+249,Customer_249,User_249,customer249@gmail.com,Paris,France
+250,Customer_250,User_250,customer250@gmail.com,Casablanca,Cote d'Ivoire
+251,Customer_251,User_251,customer251@gmail.com,Bouake,Senegal
+252,Customer_252,User_252,customer252@gmail.com,Bouake,Cote d'Ivoire
+253,Customer_253,User_253,customer253@gmail.com,Dakar,Cote d'Ivoire
+254,Customer_254,User_254,customer254@gmail.com,Abidjan,Maroc
+255,Customer_255,User_255,customer255@gmail.com,Yamoussoukro,Cote d'Ivoire
+256,Customer_256,User_256,customer256@gmail.com,Bouake,Senegal
+257,Customer_257,User_257,customer257@gmail.com,Paris,Senegal
+258,Customer_258,User_258,customer258@gmail.com,Casablanca,Maroc
+259,Customer_259,User_259,customer259@gmail.com,Paris,Maroc
+260,Customer_260,User_260,customer260@gmail.com,Dakar,Senegal
+261,Customer_261,User_261,customer261@gmail.com,Casablanca,Maroc
+262,Customer_262,User_262,customer262@gmail.com,Bouake,Senegal
+263,Customer_263,User_263,customer263@gmail.com,Casablanca,Cote d'Ivoire
+264,Customer_264,User_264,customer264@gmail.com,Bouake,Cote d'Ivoire
+265,Customer_265,User_265,customer265@gmail.com,Yamoussoukro,France
+266,Customer_266,User_266,customer266@gmail.com,Paris,Senegal
+267,Customer_267,User_267,customer267@gmail.com,Dakar,Cote d'Ivoire
+268,Customer_268,User_268,customer268@gmail.com,Casablanca,Maroc
+269,Customer_269,User_269,customer269@gmail.com,Abidjan,Maroc
+270,Customer_270,User_270,customer270@gmail.com,Dakar,France
+271,Customer_271,User_271,customer271@gmail.com,Paris,France
+272,Customer_272,User_272,customer272@gmail.com,Yamoussoukro,France
+273,Customer_273,User_273,customer273@gmail.com,Paris,Cote d'Ivoire
+274,Customer_274,User_274,customer274@gmail.com,Abidjan,Maroc
+275,Customer_275,User_275,customer275@gmail.com,Bouake,Maroc
+276,Customer_276,User_276,customer276@gmail.com,Yamoussoukro,Cote d'Ivoire
+277,Customer_277,User_277,customer277@gmail.com,Yamoussoukro,Cote d'Ivoire
+278,Customer_278,User_278,customer278@gmail.com,Dakar,France
+279,Customer_279,User_279,customer279@gmail.com,Dakar,France
+280,Customer_280,User_280,customer280@gmail.com,Yamoussoukro,Maroc
+281,Customer_281,User_281,customer281@gmail.com,Dakar,Maroc
+282,Customer_282,User_282,customer282@gmail.com,Abidjan,Maroc
+283,Customer_283,User_283,customer283@gmail.com,Casablanca,Maroc
+284,Customer_284,User_284,customer284@gmail.com,Bouake,Maroc
+285,Customer_285,User_285,customer285@gmail.com,Casablanca,France
+286,Customer_286,User_286,customer286@gmail.com,Yamoussoukro,Maroc
+287,Customer_287,User_287,customer287@gmail.com,Yamoussoukro,Maroc
+288,Customer_288,User_288,customer288@gmail.com,Dakar,France
+289,Customer_289,User_289,customer289@gmail.com,Dakar,Cote d'Ivoire
+290,Customer_290,User_290,customer290@gmail.com,Abidjan,Cote d'Ivoire
+291,Customer_291,User_291,customer291@gmail.com,Abidjan,Senegal
+292,Customer_292,User_292,customer292@gmail.com,Paris,Senegal
+293,Customer_293,User_293,customer293@gmail.com,Yamoussoukro,Maroc
+294,Customer_294,User_294,customer294@gmail.com,Bouake,Maroc
+295,Customer_295,User_295,customer295@gmail.com,Dakar,Senegal
+296,Customer_296,User_296,customer296@gmail.com,Abidjan,Senegal
+297,Customer_297,User_297,customer297@gmail.com,Bouake,Senegal
+298,Customer_298,User_298,customer298@gmail.com,Yamoussoukro,Senegal
+299,Customer_299,User_299,customer299@gmail.com,Abidjan,Senegal
+300,Customer_300,User_300,customer300@gmail.com,Casablanca,Maroc
+301,Customer_301,User_301,customer301@gmail.com,Paris,Cote d'Ivoire
+302,Customer_302,User_302,customer302@gmail.com,Paris,Maroc
+303,Customer_303,User_303,customer303@gmail.com,Bouake,France
+304,Customer_304,User_304,customer304@gmail.com,Casablanca,Cote d'Ivoire
+305,Customer_305,User_305,customer305@gmail.com,Casablanca,Maroc
+306,Customer_306,User_306,customer306@gmail.com,Bouake,France
+307,Customer_307,User_307,customer307@gmail.com,Casablanca,France
+308,Customer_308,User_308,customer308@gmail.com,Casablanca,France
+309,Customer_309,User_309,customer309@gmail.com,Bouake,Maroc
+310,Customer_310,User_310,customer310@gmail.com,Casablanca,Senegal
+311,Customer_311,User_311,customer311@gmail.com,Abidjan,Maroc
+312,Customer_312,User_312,customer312@gmail.com,Bouake,Maroc
+313,Customer_313,User_313,customer313@gmail.com,Casablanca,Maroc
+314,Customer_314,User_314,customer314@gmail.com,Yamoussoukro,Cote d'Ivoire
+315,Customer_315,User_315,customer315@gmail.com,Dakar,Senegal
+316,Customer_316,User_316,customer316@gmail.com,Abidjan,France
+317,Customer_317,User_317,customer317@gmail.com,Dakar,Cote d'Ivoire
+318,Customer_318,User_318,customer318@gmail.com,Paris,Cote d'Ivoire
+319,Customer_319,User_319,customer319@gmail.com,Yamoussoukro,Senegal
+320,Customer_320,User_320,customer320@gmail.com,Bouake,Maroc
+321,Customer_321,User_321,customer321@gmail.com,Yamoussoukro,Maroc
+322,Customer_322,User_322,customer322@gmail.com,Paris,Cote d'Ivoire
+323,Customer_323,User_323,customer323@gmail.com,Abidjan,Maroc
+324,Customer_324,User_324,customer324@gmail.com,Casablanca,Cote d'Ivoire
+325,Customer_325,User_325,customer325@gmail.com,Paris,Cote d'Ivoire
+326,Customer_326,User_326,customer326@gmail.com,Abidjan,Senegal
+327,Customer_327,User_327,customer327@gmail.com,Casablanca,Senegal
+328,Customer_328,User_328,customer328@gmail.com,Abidjan,France
+329,Customer_329,User_329,customer329@gmail.com,Paris,Cote d'Ivoire
+330,Customer_330,User_330,customer330@gmail.com,Yamoussoukro,Cote d'Ivoire
+331,Customer_331,User_331,customer331@gmail.com,Bouake,Cote d'Ivoire
+332,Customer_332,User_332,customer332@gmail.com,Dakar,Cote d'Ivoire
+333,Customer_333,User_333,customer333@gmail.com,Yamoussoukro,Senegal
+334,Customer_334,User_334,customer334@gmail.com,Yamoussoukro,Maroc
+335,Customer_335,User_335,customer335@gmail.com,Yamoussoukro,Senegal
+336,Customer_336,User_336,customer336@gmail.com,Bouake,Maroc
+337,Customer_337,User_337,customer337@gmail.com,Abidjan,Cote d'Ivoire
+338,Customer_338,User_338,customer338@gmail.com,Abidjan,Cote d'Ivoire
+339,Customer_339,User_339,customer339@gmail.com,Dakar,France
+340,Customer_340,User_340,customer340@gmail.com,Paris,France
+341,Customer_341,User_341,customer341@gmail.com,Dakar,France
+342,Customer_342,User_342,customer342@gmail.com,Bouake,Senegal
+343,Customer_343,User_343,customer343@gmail.com,Dakar,Maroc
+344,Customer_344,User_344,customer344@gmail.com,Dakar,Maroc
+345,Customer_345,User_345,customer345@gmail.com,Casablanca,Senegal
+346,Customer_346,User_346,customer346@gmail.com,Casablanca,Maroc
+347,Customer_347,User_347,customer347@gmail.com,Casablanca,Maroc
+348,Customer_348,User_348,customer348@gmail.com,Casablanca,Senegal
+349,Customer_349,User_349,customer349@gmail.com,Abidjan,Senegal
+350,Customer_350,User_350,customer350@gmail.com,Yamoussoukro,France
+351,Customer_351,User_351,customer351@gmail.com,Paris,Senegal
+352,Customer_352,User_352,customer352@gmail.com,Abidjan,Senegal
+353,Customer_353,User_353,customer353@gmail.com,Abidjan,France
+354,Customer_354,User_354,customer354@gmail.com,Casablanca,Maroc
+355,Customer_355,User_355,customer355@gmail.com,Casablanca,France
+356,Customer_356,User_356,customer356@gmail.com,Abidjan,Cote d'Ivoire
+357,Customer_357,User_357,customer357@gmail.com,Casablanca,Cote d'Ivoire
+358,Customer_358,User_358,customer358@gmail.com,Casablanca,France
+359,Customer_359,User_359,customer359@gmail.com,Dakar,Maroc
+360,Customer_360,User_360,customer360@gmail.com,Bouake,Senegal
+361,Customer_361,User_361,customer361@gmail.com,Paris,Cote d'Ivoire
+362,Customer_362,User_362,customer362@gmail.com,Yamoussoukro,Maroc
+363,Customer_363,User_363,customer363@gmail.com,Bouake,France
+364,Customer_364,User_364,customer364@gmail.com,Dakar,Maroc
+365,Customer_365,User_365,customer365@gmail.com,Dakar,Senegal
+366,Customer_366,User_366,customer366@gmail.com,Yamoussoukro,Senegal
+367,Customer_367,User_367,customer367@gmail.com,Dakar,Senegal
+368,Customer_368,User_368,customer368@gmail.com,Yamoussoukro,Cote d'Ivoire
+369,Customer_369,User_369,customer369@gmail.com,Casablanca,Cote d'Ivoire
+370,Customer_370,User_370,customer370@gmail.com,Paris,Cote d'Ivoire
+371,Customer_371,User_371,customer371@gmail.com,Casablanca,Cote d'Ivoire
+372,Customer_372,User_372,customer372@gmail.com,Paris,Maroc
+373,Customer_373,User_373,customer373@gmail.com,Abidjan,Senegal
+374,Customer_374,User_374,customer374@gmail.com,Bouake,France
+375,Customer_375,User_375,customer375@gmail.com,Bouake,Maroc
+376,Customer_376,User_376,customer376@gmail.com,Bouake,Cote d'Ivoire
+377,Customer_377,User_377,customer377@gmail.com,Bouake,Maroc
+378,Customer_378,User_378,customer378@gmail.com,Dakar,Cote d'Ivoire
+379,Customer_379,User_379,customer379@gmail.com,Paris,France
+380,Customer_380,User_380,customer380@gmail.com,Abidjan,France
+381,Customer_381,User_381,customer381@gmail.com,Casablanca,France
+382,Customer_382,User_382,customer382@gmail.com,Abidjan,France
+383,Customer_383,User_383,customer383@gmail.com,Bouake,France
+384,Customer_384,User_384,customer384@gmail.com,Abidjan,Cote d'Ivoire
+385,Customer_385,User_385,customer385@gmail.com,Bouake,Cote d'Ivoire
+386,Customer_386,User_386,customer386@gmail.com,Casablanca,Maroc
+387,Customer_387,User_387,customer387@gmail.com,Yamoussoukro,France
+388,Customer_388,User_388,customer388@gmail.com,Casablanca,Cote d'Ivoire
+389,Customer_389,User_389,customer389@gmail.com,Abidjan,France
+390,Customer_390,User_390,customer390@gmail.com,Yamoussoukro,Cote d'Ivoire
+391,Customer_391,User_391,customer391@gmail.com,Yamoussoukro,Cote d'Ivoire
+392,Customer_392,User_392,customer392@gmail.com,Abidjan,France
+393,Customer_393,User_393,customer393@gmail.com,Yamoussoukro,Senegal
+394,Customer_394,User_394,customer394@gmail.com,Bouake,Cote d'Ivoire
+395,Customer_395,User_395,customer395@gmail.com,Paris,Senegal
+396,Customer_396,User_396,customer396@gmail.com,Yamoussoukro,Maroc
+397,Customer_397,User_397,customer397@gmail.com,Dakar,Senegal
+398,Customer_398,User_398,customer398@gmail.com,Casablanca,Senegal
+399,Customer_399,User_399,customer399@gmail.com,Abidjan,Senegal
+400,Customer_400,User_400,customer400@gmail.com,Bouake,Senegal
+401,Customer_401,User_401,customer401@gmail.com,Yamoussoukro,Senegal
+402,Customer_402,User_402,customer402@gmail.com,Dakar,Senegal
+403,Customer_403,User_403,customer403@gmail.com,Dakar,Maroc
+404,Customer_404,User_404,customer404@gmail.com,Casablanca,Maroc
+405,Customer_405,User_405,customer405@gmail.com,Casablanca,Maroc
+406,Customer_406,User_406,customer406@gmail.com,Abidjan,Maroc
+407,Customer_407,User_407,customer407@gmail.com,Bouake,Maroc
+408,Customer_408,User_408,customer408@gmail.com,Dakar,Cote d'Ivoire
+409,Customer_409,User_409,customer409@gmail.com,Casablanca,Senegal
+410,Customer_410,User_410,customer410@gmail.com,Casablanca,Cote d'Ivoire
+411,Customer_411,User_411,customer411@gmail.com,Yamoussoukro,France
+412,Customer_412,User_412,customer412@gmail.com,Bouake,Maroc
+413,Customer_413,User_413,customer413@gmail.com,Yamoussoukro,Senegal
+414,Customer_414,User_414,customer414@gmail.com,Bouake,Cote d'Ivoire
+415,Customer_415,User_415,customer415@gmail.com,Yamoussoukro,Maroc
+416,Customer_416,User_416,customer416@gmail.com,Casablanca,Maroc
+417,Customer_417,User_417,customer417@gmail.com,Bouake,Senegal
+418,Customer_418,User_418,customer418@gmail.com,Abidjan,Maroc
+419,Customer_419,User_419,customer419@gmail.com,Bouake,Cote d'Ivoire
+420,Customer_420,User_420,customer420@gmail.com,Abidjan,Senegal
+421,Customer_421,User_421,customer421@gmail.com,Paris,Cote d'Ivoire
+422,Customer_422,User_422,customer422@gmail.com,Yamoussoukro,Maroc
+423,Customer_423,User_423,customer423@gmail.com,Abidjan,Senegal
+424,Customer_424,User_424,customer424@gmail.com,Paris,France
+425,Customer_425,User_425,customer425@gmail.com,Casablanca,France
+426,Customer_426,User_426,customer426@gmail.com,Paris,Maroc
+427,Customer_427,User_427,customer427@gmail.com,Paris,France
+428,Customer_428,User_428,customer428@gmail.com,Abidjan,Cote d'Ivoire
+429,Customer_429,User_429,customer429@gmail.com,Dakar,Cote d'Ivoire
+430,Customer_430,User_430,customer430@gmail.com,Abidjan,Senegal
+431,Customer_431,User_431,customer431@gmail.com,Paris,Senegal
+432,Customer_432,User_432,customer432@gmail.com,Yamoussoukro,Cote d'Ivoire
+433,Customer_433,User_433,customer433@gmail.com,Bouake,Cote d'Ivoire
+434,Customer_434,User_434,customer434@gmail.com,Abidjan,France
+435,Customer_435,User_435,customer435@gmail.com,Yamoussoukro,Maroc
+436,Customer_436,User_436,customer436@gmail.com,Casablanca,Senegal
+437,Customer_437,User_437,customer437@gmail.com,Bouake,Maroc
+438,Customer_438,User_438,customer438@gmail.com,Dakar,Cote d'Ivoire
+439,Customer_439,User_439,customer439@gmail.com,Bouake,Cote d'Ivoire
+440,Customer_440,User_440,customer440@gmail.com,Abidjan,France
+441,Customer_441,User_441,customer441@gmail.com,Casablanca,Cote d'Ivoire
+442,Customer_442,User_442,customer442@gmail.com,Bouake,Maroc
+443,Customer_443,User_443,customer443@gmail.com,Paris,Maroc
+444,Customer_444,User_444,customer444@gmail.com,Dakar,Cote d'Ivoire
+445,Customer_445,User_445,customer445@gmail.com,Paris,Maroc
+446,Customer_446,User_446,customer446@gmail.com,Paris,Senegal
+447,Customer_447,User_447,customer447@gmail.com,Dakar,Cote d'Ivoire
+448,Customer_448,User_448,customer448@gmail.com,Yamoussoukro,France
+449,Customer_449,User_449,customer449@gmail.com,Bouake,Maroc
+450,Customer_450,User_450,customer450@gmail.com,Paris,Cote d'Ivoire
+451,Customer_451,User_451,customer451@gmail.com,Dakar,Senegal
+452,Customer_452,User_452,customer452@gmail.com,Bouake,France
+453,Customer_453,User_453,customer453@gmail.com,Casablanca,France
+454,Customer_454,User_454,customer454@gmail.com,Dakar,Cote d'Ivoire
+455,Customer_455,User_455,customer455@gmail.com,Paris,Cote d'Ivoire
+456,Customer_456,User_456,customer456@gmail.com,Yamoussoukro,France
+457,Customer_457,User_457,customer457@gmail.com,Bouake,Maroc
+458,Customer_458,User_458,customer458@gmail.com,Casablanca,Cote d'Ivoire
+459,Customer_459,User_459,customer459@gmail.com,Paris,Senegal
+460,Customer_460,User_460,customer460@gmail.com,Bouake,Maroc
+461,Customer_461,User_461,customer461@gmail.com,Abidjan,Senegal
+462,Customer_462,User_462,customer462@gmail.com,Yamoussoukro,France
+463,Customer_463,User_463,customer463@gmail.com,Casablanca,Maroc
+464,Customer_464,User_464,customer464@gmail.com,Abidjan,France
+465,Customer_465,User_465,customer465@gmail.com,Yamoussoukro,Maroc
+466,Customer_466,User_466,customer466@gmail.com,Abidjan,Cote d'Ivoire
+467,Customer_467,User_467,customer467@gmail.com,Dakar,Maroc
+468,Customer_468,User_468,customer468@gmail.com,Dakar,Maroc
+469,Customer_469,User_469,customer469@gmail.com,Yamoussoukro,France
+470,Customer_470,User_470,customer470@gmail.com,Abidjan,Cote d'Ivoire
+471,Customer_471,User_471,customer471@gmail.com,Abidjan,France
+472,Customer_472,User_472,customer472@gmail.com,Paris,France
+473,Customer_473,User_473,customer473@gmail.com,Abidjan,Cote d'Ivoire
+474,Customer_474,User_474,customer474@gmail.com,Yamoussoukro,Maroc
+475,Customer_475,User_475,customer475@gmail.com,Abidjan,Maroc
+476,Customer_476,User_476,customer476@gmail.com,Yamoussoukro,France
+477,Customer_477,User_477,customer477@gmail.com,Paris,Cote d'Ivoire
+478,Customer_478,User_478,customer478@gmail.com,Dakar,France
+479,Customer_479,User_479,customer479@gmail.com,Casablanca,Senegal
+480,Customer_480,User_480,customer480@gmail.com,Paris,France
+481,Customer_481,User_481,customer481@gmail.com,Paris,Cote d'Ivoire
+482,Customer_482,User_482,customer482@gmail.com,Dakar,Maroc
+483,Customer_483,User_483,customer483@gmail.com,Paris,Cote d'Ivoire
+484,Customer_484,User_484,customer484@gmail.com,Dakar,Maroc
+485,Customer_485,User_485,customer485@gmail.com,Casablanca,Senegal
+486,Customer_486,User_486,customer486@gmail.com,Abidjan,Cote d'Ivoire
+487,Customer_487,User_487,customer487@gmail.com,Bouake,Senegal
+488,Customer_488,User_488,customer488@gmail.com,Casablanca,Cote d'Ivoire
+489,Customer_489,User_489,customer489@gmail.com,Yamoussoukro,Senegal
+490,Customer_490,User_490,customer490@gmail.com,Bouake,Maroc
+491,Customer_491,User_491,customer491@gmail.com,Paris,Senegal
+492,Customer_492,User_492,customer492@gmail.com,Dakar,Cote d'Ivoire
+493,Customer_493,User_493,customer493@gmail.com,Casablanca,Senegal
+494,Customer_494,User_494,customer494@gmail.com,Casablanca,Cote d'Ivoire
+495,Customer_495,User_495,customer495@gmail.com,Dakar,Cote d'Ivoire
+496,Customer_496,User_496,customer496@gmail.com,Abidjan,Cote d'Ivoire
+497,Customer_497,User_497,customer497@gmail.com,Dakar,Senegal
+498,Customer_498,User_498,customer498@gmail.com,Paris,Maroc
+499,Customer_499,User_499,customer499@gmail.com,Abidjan,Senegal
+500,Customer_500,User_500,customer500@gmail.com,Casablanca,France
