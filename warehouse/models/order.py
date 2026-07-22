@@ -13,8 +13,8 @@ class Order(Base):
         ForeignKey("dim_customers.customer_id")
     )
 
-    product_id: Mapped[int] = mapped_column(
-        ForeignKey("dim_products.product_id")
+    produit_id: Mapped[int] = mapped_column(
+        ForeignKey("dim_produits.product_id")
     )
 
     payment_id: Mapped[int] = mapped_column(
