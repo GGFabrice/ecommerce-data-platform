@@ -1,4 +1,6 @@
-from sqlalchemy import Float, ForeignKey, Integer
+from datetime import date
+
+from sqlalchemy import Float, ForeignKey, Integer, Date
 from sqlalchemy.orm import Mapped, mapped_column
 
 from database.base import Base
@@ -14,7 +16,7 @@ class Order(Base):
     )
 
     produit_id: Mapped[int] = mapped_column(
-        ForeignKey("dim_produits.product_id")
+        ForeignKey("dim_produits.produit_id")
     )
 
     payment_id: Mapped[int] = mapped_column(
@@ -28,3 +30,5 @@ class Order(Base):
     quantity: Mapped[int] = mapped_column(Integer)
 
     total_amount: Mapped[float] = mapped_column(Float)
+
+    order_date: Mapped[date] = mapped_column(Date)

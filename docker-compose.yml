@@ -1,0 +1,89 @@
+version: "3.8"
+
+
+services:
+
+
+  postgres:
+
+    image: postgres:16
+
+    container_name: ecommerce_postgres
+
+    environment:
+
+      POSTGRES_USER: postgres
+
+      POSTGRES_PASSWORD: Esther123
+
+      POSTGRES_DB: ecommerce_dw
+
+
+    ports:
+
+      - "5432:5432"
+
+
+    volumes:
+
+      - postgres_data:/var/lib/postgresql/data
+
+
+
+  etl:
+
+    build: .
+
+
+    container_name: ecommerce_etl
+
+
+    depends_on:
+
+      - postgres
+
+
+    volumes:
+
+      - .:/app
+
+
+    command:
+
+      python pipelines/loading.py
+
+
+
+  dashboard:
+
+
+    build: .
+
+
+    container_name: ecommerce_dashboard
+
+
+    depends_on:
+
+      - postgres
+
+
+    ports:
+
+      - "8501:8501"
+
+
+    volumes:
+
+      - .:/app
+
+
+    command:
+
+      streamlit run dashboard/app.py --server.address=0.0.0.0
+
+
+
+volumes:
+
+  postgres_data:

@@ -6,12 +6,13 @@ class Produit(Base):
 
     __tablename__ = "dim_produits"
 
-    product_id = Column(
+    produit_id = Column(
         Integer,
-        primary_key=True,
-        autoincrement=True
+        primary_key=True
     )
 
-    product_name = Column(String)
-    category = Column(String)
-    price = Column(Float)
+    produit_name = Column(String(100))
+
+    category = Column(String(100))
+
+    prix = Column(Float)

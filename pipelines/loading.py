@@ -7,7 +7,7 @@ from sqlalchemy import create_engine
 # ==========================
 
 DATABASE_URL = (
-    "postgresql://postgres:Esther123@localhost:5432/ecommerce_dw"
+    "postgresql://postgres:Esther123@postgres:5432/ecommerce_dw"
 )
 
 engine = create_engine(DATABASE_URL)
@@ -103,58 +103,43 @@ def load_payments():
 # DIM DATE
 # ==========================
 
-def load_date():
+def load_dim_date():
 
     print("\n📌 Chargement Dim Date")
-
 
     df_orders = pd.read_csv(
         PATH + "orders.csv"
     )
 
-
+    # convertir en date
     df_orders["order_date"] = pd.to_datetime(
         df_orders["order_date"]
     )
 
-
+    # créer la dimension date
     df_date = pd.DataFrame()
-
 
     df_date["full_date"] = (
         df_orders["order_date"]
         .drop_duplicates()
+        .sort_values()
+        .reset_index(drop=True)
     )
 
-
-    df_date["day"] = (
-        df_date["full_date"]
-        .dt.day
-    )
-
-
-    df_date["month"] = (
-        df_date["full_date"]
-        .dt.month
-    )
-
-
-    df_date["year"] = (
-        df_date["full_date"]
-        .dt.year
-    )
-
+    df_date["day"] = df_date["full_date"].dt.day
+    df_date["month"] = df_date["full_date"].dt.month
+    df_date["year"] = df_date["full_date"].dt.year
 
     print(df_date.head())
 
-
+    # ⚠️ l'index devient date_id
     df_date.to_sql(
         "dim_date",
         engine,
-        if_exists="append",
-        index=False
+        if_exists="replace",
+        index=True,
+        index_label="date_id"
     )
-
 
     print("✅ Dim Date chargée")
 
@@ -284,7 +269,7 @@ if __name__ == "__main__":
 
     load_payments()
 
-    load_date()
+    load_dim_date() 
 
     load_orders()
 
